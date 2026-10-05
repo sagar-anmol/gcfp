@@ -1,0 +1,9 @@
+Column,Card Title,Description,Priority,Assignee Role,Tags
+1. Inbound AI Triage (Backlog),Uncle Verma (Sec 35) - Depressive Vocabulary,AI detected 3 mentions of 'bereavement' and low vocal cadence at 2:45 AM.,High,AI Telemetry,"Triage, MentalHealth"
+1. Inbound AI Triage (Backlog),Auntie Grewal (Mohali Sec 70) - Joint Pain Report,Senior told AI her right knee hurts. Requested doctor checkup.,Medium,AI Telemetry,"Medical, Errand"
+2. RM Action Required,Home Tea Visit - Col. Brar (Sec 11),Bi-weekly relationship visit. Verify blood pressure and check food stocks.,High,Relationship Manager,"Visit, Routine"
+2. RM Action Required,Review Proposal: Cohort #18 (Kirtan Circle),AI proposed 5-senior carpool for Saturday morning Kirtan in Mohali. Verify mobility notes.,High,Relationship Manager,"Approval, Club"
+3. Dynamic Gig Dispatched,Hospital Escort - Mr. Duggal (Fortis Mohali),Gig companion assigned to pick up Mr. Duggal at 10:15 AM and wait in OPD line.,Critical,Gig Companion,"Transit, Escort"
+3. Dynamic Gig Dispatched,Medicine Delivery - Sector 22 Chemist,Deliver chronic cardiac prescription to Sector 8 residence.,Medium,Gig Driver,"Delivery, Errand"
+4. Event Active / In-Progress,Saturday 'Silver Talks' High-Tea (Sec 10),4 seniors gathered at Willow Cafe for tea and poetry recital. RM hosting.,High,Host Manager,"Club, Active"
+5. Completed & Family Telemetry Sent,Sunday Video Digest Sent - Canada Expat,Weekly WhatsApp video summary and vitals report delivered to daughter in Toronto.,Low,Automated Ops,"NRI, Telemetry"

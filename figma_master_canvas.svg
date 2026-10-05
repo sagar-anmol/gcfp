@@ -1,0 +1,401 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 4160 4880" width="4160" height="4880" style="background:#05070B; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;">
+<defs>
+<filter id="card-shadow" x="-5%" y="-5%" width="110%" height="115%"><feDropShadow dx="0" dy="12" stdDeviation="16" flood-color="#000000" flood-opacity="0.6"/></filter>
+</defs>
+<g id="frame_1">
+<rect x="100" y="100" width="1920" height="1080" rx="24" fill="#0D111A" stroke="#EF4444" stroke-width="2" />
+<rect x="150" y="140" width="6" height="52" fill="#EF4444" rx="3" />
+<text x="170" y="168" fill="#FFFFFF" font-size="26" font-weight="800" letter-spacing="0.5">FRAME 1: COMPETITIVE INTELLIGENCE & MARKET GAP</text>
+<text x="170" y="196" fill="#94A3B8" font-size="16" font-weight="400">Tricity Rivals vs. Pan-India Giants vs. Why Goodfellows Stalled (Exact Data & Pricing)</text>
+<rect x="150" y="240" width="590" height="443" rx="16" fill="#161E2E" stroke="#EF4444" stroke-width="1.5" filter="url(#card-shadow)" />
+<rect x="170" y="260" width="215.5" height="26" rx="6" fill="#EF444422" stroke="#EF4444" stroke-width="1" />
+<text x="180" y="278" fill="#EF4444" font-size="11" font-weight="700" letter-spacing="0.8">LOCAL TRICITY BENCHMARK</text>
+<text x="720" y="278" text-anchor="end" fill="#64748B" font-size="10.5" font-family="monospace">https://goldencares.in</text>
+<text x="170" y="315" fill="#F8FAFC" font-size="17" font-weight="700">GoldenCares (goldencares.in)</text>
+<line x1="170" y1="330" x2="720" y2="330" stroke="#334155" stroke-width="1" />
+<text x="170" y="358" fill="#38BDF8" font-size="12" font-weight="600">• URL: goldencares.in | SLIET IIC Incubation (Golden Cares LLP)</text>
+<text x="170" y="381" fill="#E2E8F0" font-size="12.5" font-weight="500">• Current Model: ₹499/hr on-demand college student visits (Razorpay).</text>
+<text x="170" y="404" fill="#E2E8F0" font-size="12.5" font-weight="500">• Live Pilot Audit: active: false, 1 family served, 3 companions on platform.</text>
+<text x="170" y="427" fill="#E2E8F0" font-size="12.5" font-weight="500">• Fatal Friction: Pay-per-hour disincentivizes regular use; travel in cash.</text>
+<text x="170" y="450" fill="#E2E8F0" font-size="12.5" font-weight="500">• Churn Risk: Student graduation turnover breaks trust; private poaching leakage.</text>
+<text x="170" y="473" fill="#E2E8F0" font-size="12.5" font-weight="500">• Missing: No nocturnal support, no health telemetry, zero ecosystem.</text>
+<rect x="764" y="240" width="590" height="443" rx="16" fill="#161E2E" stroke="#F59E0B" stroke-width="1.5" filter="url(#card-shadow)" />
+<rect x="784" y="260" width="215.5" height="26" rx="6" fill="#F59E0B22" stroke="#F59E0B" stroke-width="1" />
+<text x="794" y="278" fill="#F59E0B" font-size="11" font-weight="700" letter-spacing="0.8">LOCAL MEDICAL CONCIERGE</text>
+<text x="1334" y="278" text-anchor="end" fill="#64748B" font-size="10.5" font-family="monospace">https://emoha.com</text>
+<text x="784" y="315" fill="#F8FAFC" font-size="17" font-weight="700">Emoha Elder Care (Mohali Hub - Sec 70)</text>
+<line x1="784" y1="330" x2="1334" y2="330" stroke="#334155" stroke-width="1" />
+<text x="784" y="358" fill="#38BDF8" font-size="12" font-weight="600">• URL: emoha.com | Tricity Physical Hub: Sector 70, Mohali</text>
+<text x="784" y="381" fill="#E2E8F0" font-size="12.5" font-weight="500">• Pricing: ₹2,500/mo (Essential) to ₹10,000/mo (Empower/Complete).</text>
+<text x="784" y="404" fill="#E2E8F0" font-size="12.5" font-weight="500">• Medical Moat: 24/7 ambulance dispatch + Fortis/Max Mohali hospital tie-ups.</text>
+<text x="784" y="427" fill="#E2E8F0" font-size="12.5" font-weight="500">• Vulnerability: Heavy clinical hospital feel; elders feel treated like patients;</text>
+<text x="792" y="450" fill="#94A3B8" font-size="12" font-weight="400">  zero warm peer companionship, zero informal intellectual banter.</text>
+<rect x="1378" y="240" width="590" height="443" rx="16" fill="#161E2E" stroke="#10B981" stroke-width="1.5" filter="url(#card-shadow)" />
+<rect x="1398" y="260" width="156.0" height="26" rx="6" fill="#10B98122" stroke="#10B981" stroke-width="1" />
+<text x="1408" y="278" fill="#10B981" font-size="11" font-weight="700" letter-spacing="0.8">NRI FOCUS LEADER</text>
+<text x="1948" y="278" text-anchor="end" fill="#64748B" font-size="10.5" font-family="monospace">https://samarth.community</text>
+<text x="1398" y="315" fill="#F8FAFC" font-size="17" font-weight="700">Samarth Eldercare (Chandigarh / Panchkula)</text>
+<line x1="1398" y1="330" x2="1948" y2="330" stroke="#334155" stroke-width="1" />
+<text x="1398" y="358" fill="#38BDF8" font-size="12" font-weight="600">• URL: samarth.community | Focus: NRI children of elderly parents</text>
+<text x="1398" y="381" fill="#E2E8F0" font-size="12.5" font-weight="500">• Pricing: ₹3,000 – ₹8,500/month (billed quarterly/annually).</text>
+<text x="1398" y="404" fill="#E2E8F0" font-size="12.5" font-weight="500">• Brand Moat: Strong trust among retired defense officers and PSU expats.</text>
+<text x="1398" y="427" fill="#E2E8F0" font-size="12.5" font-weight="500">• Vulnerability: Human-only care team leaves 16 nighttime hours uncovered.</text>
+<text x="1406" y="450" fill="#94A3B8" font-size="12" font-weight="400">  Headcount burn limits scaling beyond high-net-worth enclaves.</text>
+<rect x="150" y="707" width="898" height="443" rx="16" fill="#161E2E" stroke="#EC4899" stroke-width="1.5" filter="url(#card-shadow)" />
+<rect x="170" y="727" width="181.5" height="26" rx="6" fill="#EC489922" stroke="#EC4899" stroke-width="1" />
+<text x="180" y="745" fill="#EC4899" font-size="11" font-weight="700" letter-spacing="0.8">PAN-INDIA BENCHMARK</text>
+<text x="1028" y="745" text-anchor="end" fill="#64748B" font-size="10.5" font-family="monospace">https://thegoodfellows.in</text>
+<text x="170" y="782" fill="#F8FAFC" font-size="17" font-weight="700">Goodfellows India (Ratan Tata Backed)</text>
+<line x1="170" y1="797" x2="1028" y2="797" stroke="#334155" stroke-width="1" />
+<text x="170" y="825" fill="#38BDF8" font-size="12" font-weight="600">• URL: thegoodfellows.in | Founded by Shantanu Naidu, late Ratan Tata backed.</text>
+<text x="170" y="848" fill="#E2E8F0" font-size="12.5" font-weight="500">• Model: Empathy-tested "Grandkids on Demand" (~₹5,000/month).</text>
+<text x="170" y="871" fill="#E2E8F0" font-size="12.5" font-weight="500">• Scaling Bottleneck 1: Salaried fixed wages (₹25k-35k/mo) create high payroll liability.</text>
+<text x="170" y="894" fill="#E2E8F0" font-size="12.5" font-weight="500">• Scaling Bottleneck 2: 3% psychometric selection funnel strangles supply.</text>
+<text x="170" y="917" fill="#E2E8F0" font-size="12.5" font-weight="500">• Scaling Bottleneck 3: 1:5 companion ratio keeps gross margins near breakeven.</text>
+<rect x="1072" y="707" width="898" height="443" rx="16" fill="#161E2E" stroke="#8B5CF6" stroke-width="1.5" filter="url(#card-shadow)" />
+<rect x="1092" y="727" width="207.0" height="26" rx="6" fill="#8B5CF622" stroke="#8B5CF6" stroke-width="1" />
+<text x="1102" y="745" fill="#8B5CF6" font-size="11" font-weight="700" letter-spacing="0.8">PRICE ANCHOR BENCHMARK</text>
+<text x="1950" y="745" text-anchor="end" fill="#64748B" font-size="10.5" font-family="monospace">Unregulated Informal Sector</text>
+<text x="1092" y="782" fill="#F8FAFC" font-size="17" font-weight="700">Informal Domestic Maids / Ayahs</text>
+<line x1="1092" y1="797" x2="1950" y2="797" stroke="#334155" stroke-width="1" />
+<text x="1092" y="825" fill="#E2E8F0" font-size="12.5" font-weight="500">• Baseline Price: ₹3,500 – ₹5,500/month for daily 1-2 hour physical presence.</text>
+<text x="1092" y="848" fill="#E2E8F0" font-size="12.5" font-weight="500">• Family Mindset: NRI/local children compare every service bill to domestic maids.</text>
+<text x="1092" y="871" fill="#E2E8F0" font-size="12.5" font-weight="500">• Our Positioning: Unbundle manual chores from intellectual companionship.</text>
+<text x="1100" y="894" fill="#94A3B8" font-size="12" font-weight="400">  Senior receives dignity, mental stimulation, and continuous biological vigilance.</text>
+</g>
+<g id="frame_2">
+<rect x="2140" y="100" width="1920" height="1080" rx="24" fill="#0D111A" stroke="#8B5CF6" stroke-width="2" />
+<rect x="2190" y="140" width="6" height="52" fill="#8B5CF6" rx="3" />
+<text x="2210" y="168" fill="#FFFFFF" font-size="26" font-weight="800" letter-spacing="0.5">FRAME 2: CLINICAL, BIOLOGICAL & NOCTURNAL RESEARCH</text>
+<text x="2210" y="196" fill="#94A3B8" font-size="16" font-weight="400">Exact Peer-Reviewed Citations: 3.4M Cohorts, Melatonin Breakdown, and the 3 AM Void</text>
+<rect x="2190" y="240" width="590" height="443" rx="16" fill="#161E2E" stroke="#EC4899" stroke-width="1.5" filter="url(#card-shadow)" />
+<rect x="2210" y="260" width="249.5" height="26" rx="6" fill="#EC489922" stroke="#EC4899" stroke-width="1" />
+<text x="2220" y="278" fill="#EC4899" font-size="11" font-weight="700" letter-spacing="0.8">MORTALITY RISK: 3.4M COHORT</text>
+<text x="2760" y="278" text-anchor="end" fill="#64748B" font-size="10.5" font-family="monospace">https://journals.sagepub.com/doi/10.1177/1745</text>
+<text x="2210" y="315" fill="#F8FAFC" font-size="17" font-weight="700">Holt-Lunstad Meta-Analysis (2015)</text>
+<line x1="2210" y1="330" x2="2760" y2="330" stroke="#334155" stroke-width="1" />
+<text x="2210" y="358" fill="#38BDF8" font-size="12" font-weight="600">• Citation: Holt-Lunstad et al. (2015). Perspect Psychol Sci, 10(2):227–242.</text>
+<text x="2210" y="381" fill="#E2E8F0" font-size="12.5" font-weight="500">• DOI: 10.1177/1745691614568352 | Brigham Young University (70 studies).</text>
+<text x="2210" y="404" fill="#E2E8F0" font-size="12.5" font-weight="500">• Finding: Social isolation increases mortality hazard by 26% to 32%.</text>
+<text x="2210" y="427" fill="#E2E8F0" font-size="12.5" font-weight="500">• Equivalence: Same lethal impact as smoking 15 cigarettes daily.</text>
+<text x="2210" y="450" fill="#E2E8F0" font-size="12.5" font-weight="500">• More hazardous than clinical obesity, hypertension, or physical inactivity.</text>
+<rect x="2804" y="240" width="590" height="443" rx="16" fill="#161E2E" stroke="#3B82F6" stroke-width="1.5" filter="url(#card-shadow)" />
+<rect x="2824" y="260" width="198.5" height="26" rx="6" fill="#3B82F622" stroke="#3B82F6" stroke-width="1" />
+<text x="2834" y="278" fill="#3B82F6" font-size="11" font-weight="700" letter-spacing="0.8">85-YEAR HARVARD STUDY</text>
+<text x="3374" y="278" text-anchor="end" fill="#64748B" font-size="10.5" font-family="monospace">https://www.adultdevelopmentstudy.org/</text>
+<text x="2824" y="315" fill="#F8FAFC" font-size="17" font-weight="700">Harvard Adult Development Study (2023)</text>
+<line x1="2824" y1="330" x2="3374" y2="330" stroke="#334155" stroke-width="1" />
+<text x="2824" y="358" fill="#38BDF8" font-size="12" font-weight="600">• Citation: Waldinger, R. J., &amp; Schulz, M. S. (2023). "The Good Life". Harvard Med.</text>
+<text x="2824" y="381" fill="#38BDF8" font-size="12" font-weight="600">• URL: adultdevelopmentstudy.org | Longest longitudinal study in human history.</text>
+<text x="2824" y="404" fill="#E2E8F0" font-size="12.5" font-weight="500">• Discovery: Relationship warmth is the #1 predictor of longevity past 75.</text>
+<text x="2824" y="427" fill="#E2E8F0" font-size="12.5" font-weight="500">• Pathology: Chronic loneliness triggers toxic systemic inflammation (IL-6 &amp; CRP),</text>
+<text x="2832" y="450" fill="#94A3B8" font-size="12" font-weight="400">  accelerating coronary artery disease, cognitive decline, and stroke.</text>
+<rect x="3418" y="240" width="590" height="443" rx="16" fill="#161E2E" stroke="#6366F1" stroke-width="1.5" filter="url(#card-shadow)" />
+<rect x="3438" y="260" width="215.5" height="26" rx="6" fill="#6366F122" stroke="#6366F1" stroke-width="1" />
+<text x="3448" y="278" fill="#6366F1" font-size="11" font-weight="700" letter-spacing="0.8">CIRCADIAN ENDOCRINOLOGY</text>
+<text x="3988" y="278" text-anchor="end" fill="#64748B" font-size="10.5" font-family="monospace">https://pubmed.ncbi.nlm.nih.gov/15582784/</text>
+<text x="3438" y="315" fill="#F8FAFC" font-size="17" font-weight="700">Melatonin Collapse & The 3 AM Void</text>
+<line x1="3438" y1="330" x2="3988" y2="330" stroke="#334155" stroke-width="1" />
+<text x="3438" y="358" fill="#38BDF8" font-size="12" font-weight="600">• Citation: Karasek (2004) Exp Gerontol &amp; Vural et al. (2014) Sleep Med Rev.</text>
+<text x="3438" y="381" fill="#E2E8F0" font-size="12.5" font-weight="500">• PMID: 15582784 | DOI: 10.1016/j.smrv.2014.02.001 (Pineal calcification).</text>
+<text x="3438" y="404" fill="#E2E8F0" font-size="12.5" font-weight="500">• Neurobiology: Pineal gland calcification reduces melatonin production by 70%–80%.</text>
+<text x="3438" y="427" fill="#E2E8F0" font-size="12.5" font-weight="500">• The 3:00 AM Void: REM fragmentation triggers micro-awakenings at 2:00–5:00 AM.</text>
+<text x="3438" y="450" fill="#E2E8F0" font-size="12.5" font-weight="500">• Rumination Paradox: Defenses collapse in darkness; elders ruminate on mortality.</text>
+<text x="3438" y="473" fill="#E2E8F0" font-size="12.5" font-weight="500">• Solution: Sub-500ms Indic AI Voice Confidant on 24/7 nocturnal alert.</text>
+<rect x="2190" y="707" width="898" height="443" rx="16" fill="#161E2E" stroke="#10B981" stroke-width="1.5" filter="url(#card-shadow)" />
+<rect x="2210" y="727" width="232.5" height="26" rx="6" fill="#10B98122" stroke="#10B981" stroke-width="1" />
+<text x="2220" y="745" fill="#10B981" font-size="11" font-weight="700" letter-spacing="0.8">STANFORD AGING PSYCHOLOGY</text>
+<text x="3068" y="745" text-anchor="end" fill="#64748B" font-size="10.5" font-family="monospace">https://longevity.stanford.edu/</text>
+<text x="2210" y="782" fill="#F8FAFC" font-size="17" font-weight="700">Socioemotional Selectivity Theory</text>
+<line x1="2210" y1="797" x2="3068" y2="797" stroke="#334155" stroke-width="1" />
+<text x="2210" y="825" fill="#38BDF8" font-size="12" font-weight="600">• Citation: Carstensen, L. L. (1995, 2006). Stanford Center on Longevity.</text>
+<text x="2210" y="848" fill="#E2E8F0" font-size="12.5" font-weight="500">• Psychological Finding: Aging amygdala prioritizes high-meaning emotional bonds.</text>
+<text x="2210" y="871" fill="#E2E8F0" font-size="12.5" font-weight="500">• The Infantilization Trap: Treating elders like children triggers defiance and withdrawal.</text>
+<text x="2210" y="894" fill="#E2E8F0" font-size="12.5" font-weight="500">• Our Paradigm: Position companions as mentees seeking life wisdom and stories.</text>
+<text x="2218" y="917" fill="#94A3B8" font-size="12" font-weight="400">  Validates senior dignity, self-worth, and unlocks deep adherence.</text>
+<rect x="3112" y="707" width="898" height="443" rx="16" fill="#161E2E" stroke="#F59E0B" stroke-width="1.5" filter="url(#card-shadow)" />
+<rect x="3132" y="727" width="215.5" height="26" rx="6" fill="#F59E0B22" stroke="#F59E0B" stroke-width="1" />
+<text x="3142" y="745" fill="#F59E0B" font-size="11" font-weight="700" letter-spacing="0.8">GOVT DEMOGRAPHIC CENSUS</text>
+<text x="3990" y="745" text-anchor="end" fill="#64748B" font-size="10.5" font-family="monospace">https://www.iipsindia.ac.in/content/lasi-wave</text>
+<text x="3132" y="782" fill="#F8FAFC" font-size="17" font-weight="700">LASI Wave 1 & Tricity "Silent Kothis"</text>
+<line x1="3132" y1="797" x2="3990" y2="797" stroke="#334155" stroke-width="1" />
+<text x="3132" y="825" fill="#38BDF8" font-size="12" font-weight="600">• Citation: Longitudinal Ageing Study in India (LASI Wave 1, 2020). IIPS Mumbai.</text>
+<text x="3132" y="848" fill="#E2E8F0" font-size="12.5" font-weight="500">• Punjab Demographics: 12.6%+ population aged 60+; 150k youth emigrate yearly.</text>
+<text x="3132" y="871" fill="#E2E8F0" font-size="12.5" font-weight="500">• Tricity Reality: Sectors 8–11 &amp; Mohali Phase 7 filled with retired generals, judges,</text>
+<text x="3140" y="894" fill="#94A3B8" font-size="12" font-weight="400">  and professors living in 1-kanal villas with high wealth but complete emotional void.</text>
+<text x="3132" y="917" fill="#E2E8F0" font-size="12.5" font-weight="500">• High spending capacity ($500-$2000/mo sent by NRI kids), zero companionship.</text>
+</g>
+<g id="frame_3">
+<rect x="100" y="1300" width="1920" height="1080" rx="24" fill="#0D111A" stroke="#06B6D4" stroke-width="2" />
+<rect x="150" y="1340" width="6" height="52" fill="#06B6D4" rx="3" />
+<text x="170" y="1368" fill="#FFFFFF" font-size="26" font-weight="800" letter-spacing="0.5">FRAME 3: GLOBAL PRECEDENTS & GOV-FUNDED EXPERIMENTS</text>
+<text x="170" y="1396" fill="#94A3B8" font-size="16" font-weight="400">US NYSOFA ElliQ, South Korea Naver CLOVA, Japan Koreisha, China Smart Radar</text>
+<rect x="150" y="1440" width="437" height="910" rx="16" fill="#161E2E" stroke="#06B6D4" stroke-width="1.5" filter="url(#card-shadow)" />
+<rect x="170" y="1460" width="173.0" height="26" rx="6" fill="#06B6D422" stroke="#06B6D4" stroke-width="1" />
+<text x="180" y="1478" fill="#06B6D4" font-size="11" font-weight="700" letter-spacing="0.8">USA STATE-DEPLOYED</text>
+<text x="567" y="1478" text-anchor="end" fill="#64748B" font-size="10.5" font-family="monospace">https://aging.ny.gov/news/nysofa-announces-pr</text>
+<text x="170" y="1515" fill="#F8FAFC" font-size="17" font-weight="700">New York State NYSOFA & ElliQ</text>
+<line x1="170" y1="1530" x2="567" y2="1530" stroke="#334155" stroke-width="1" />
+<text x="170" y="1558" fill="#38BDF8" font-size="12" font-weight="600">• URL: aging.ny.gov | NY State Office for the Aging &amp; Intuition Robotics.</text>
+<text x="170" y="1581" fill="#E2E8F0" font-size="12.5" font-weight="500">• Deployment: 800+ proactive AI companion devices across NY State homes.</text>
+<text x="170" y="1604" fill="#E2E8F0" font-size="12.5" font-weight="500">• Clinical Result: 95% of seniors reported statistically significant loneliness drop.</text>
+<text x="170" y="1627" fill="#E2E8F0" font-size="12.5" font-weight="500">• Engagement: &gt;30 daily interactions; proactive AI dialogue initiation was key.</text>
+<text x="170" y="1650" fill="#E2E8F0" font-size="12.5" font-weight="500">• Validates government willingness to subsidize AI companionship infrastructure.</text>
+<rect x="611" y="1440" width="437" height="910" rx="16" fill="#161E2E" stroke="#10B981" stroke-width="1.5" filter="url(#card-shadow)" />
+<rect x="631" y="1460" width="164.5" height="26" rx="6" fill="#10B98122" stroke="#10B981" stroke-width="1" />
+<text x="641" y="1478" fill="#10B981" font-size="11" font-weight="700" letter-spacing="0.8">SOUTH KOREA SCALE</text>
+<text x="1028" y="1478" text-anchor="end" fill="#64748B" font-size="10.5" font-family="monospace">https://clova.ai/carecall</text>
+<text x="631" y="1515" fill="#F8FAFC" font-size="17" font-weight="700">Naver CLOVA CareCall (20k Seniors)</text>
+<line x1="631" y1="1530" x2="1028" y2="1530" stroke="#334155" stroke-width="1" />
+<text x="631" y="1558" fill="#38BDF8" font-size="12" font-weight="600">• URL: clova.ai/carecall | HyperCLOVA AI deployed across 20+ Korean cities.</text>
+<text x="631" y="1581" fill="#E2E8F0" font-size="12.5" font-weight="500">• Scale: 20,000+ isolated seniors receiving twice-weekly conversational check-ins.</text>
+<text x="631" y="1604" fill="#E2E8F0" font-size="12.5" font-weight="500">• Episodic Memory: Recalls meals, sleep, and emotional sentiment across calls.</text>
+<text x="631" y="1627" fill="#E2E8F0" font-size="12.5" font-weight="500">• 90% positive reception; acoustic distress flags auto-dispatch welfare workers.</text>
+<rect x="1072" y="1440" width="437" height="910" rx="16" fill="#161E2E" stroke="#F59E0B" stroke-width="1.5" filter="url(#card-shadow)" />
+<rect x="1092" y="1460" width="207.0" height="26" rx="6" fill="#F59E0B22" stroke="#F59E0B" stroke-width="1" />
+<text x="1102" y="1478" fill="#F59E0B" font-size="11" font-weight="700" letter-spacing="0.8">JAPAN SENIOR WORKFORCE</text>
+<text x="1489" y="1478" text-anchor="end" fill="#64748B" font-size="10.5" font-family="monospace">https://www.sjc.ne.jp/</text>
+<text x="1092" y="1515" fill="#F8FAFC" font-size="17" font-weight="700">Silver Human Resources (Koreisha)</text>
+<line x1="1092" y1="1530" x2="1489" y2="1530" stroke="#334155" stroke-width="1" />
+<text x="1092" y="1558" fill="#38BDF8" font-size="12" font-weight="600">• URL: sjc.ne.jp | Ministry of Health, Labour and Welfare, Japan.</text>
+<text x="1092" y="1581" fill="#E2E8F0" font-size="12.5" font-weight="500">• Model: 700,000+ active younger retirees (60-72) caring for oldest-old (80+).</text>
+<text x="1092" y="1604" fill="#E2E8F0" font-size="12.5" font-weight="500">• Cultural Match: Same Punjabi/Hindi vernacular, nostalgic music, shared history.</text>
+<text x="1092" y="1627" fill="#E2E8F0" font-size="12.5" font-weight="500">• Our Strategy: Recruit retired schoolteachers &amp; defense wives as Relationship Managers.</text>
+<rect x="1533" y="1440" width="437" height="910" rx="16" fill="#161E2E" stroke="#EF4444" stroke-width="1.5" filter="url(#card-shadow)" />
+<rect x="1553" y="1460" width="164.5" height="26" rx="6" fill="#EF444422" stroke="#EF4444" stroke-width="1" />
+<text x="1563" y="1478" fill="#EF4444" font-size="11" font-weight="700" letter-spacing="0.8">CHINA SMART RADAR</text>
+<text x="1950" y="1478" text-anchor="end" fill="#64748B" font-size="10.5" font-family="monospace">Beijing Municipal Civil Affairs Bureau</text>
+<text x="1553" y="1515" fill="#F8FAFC" font-size="17" font-weight="700">Beijing & Shenzhen Virtual Senior Homes</text>
+<line x1="1553" y1="1530" x2="1950" y2="1530" stroke="#334155" stroke-width="1" />
+<text x="1553" y="1558" fill="#E2E8F0" font-size="12.5" font-weight="500">• Model: Subsidized mmWave radar + AI voice boxes in public senior apartments.</text>
+<text x="1553" y="1581" fill="#E2E8F0" font-size="12.5" font-weight="500">• Triage SLA: 15-minute response radius by neighborhood triage workers.</text>
+<text x="1553" y="1604" fill="#E2E8F0" font-size="12.5" font-weight="500">• Metric: High-density cluster pods lower emergency dispatch costs by 70%.</text>
+</g>
+<g id="frame_4">
+<rect x="2140" y="1300" width="1920" height="1080" rx="24" fill="#0D111A" stroke="#3B82F6" stroke-width="2" />
+<rect x="2190" y="1340" width="6" height="52" fill="#3B82F6" rx="3" />
+<text x="2210" y="1368" fill="#FFFFFF" font-size="26" font-weight="800" letter-spacing="0.5">FRAME 4: THE 4 CORE SYSTEM PILLARS</text>
+<text x="2210" y="1396" fill="#94A3B8" font-size="16" font-weight="400">Autonomous Voice AI + Dedicated RM + Gig Force + Thematic Golden Club</text>
+<rect x="2190" y="1440" width="437" height="910" rx="16" fill="#161E2E" stroke="#3B82F6" stroke-width="1.5" filter="url(#card-shadow)" />
+<rect x="2210" y="1460" width="215.5" height="26" rx="6" fill="#3B82F622" stroke="#3B82F6" stroke-width="1" />
+<text x="2220" y="1478" fill="#3B82F6" font-size="11" font-weight="700" letter-spacing="0.8">PILLAR I: 24/7 AI AGENT</text>
+<text x="2607" y="1478" text-anchor="end" fill="#64748B" font-size="10.5" font-family="monospace">Proprietary Indic Voice Architecture</text>
+<text x="2210" y="1515" fill="#F8FAFC" font-size="17" font-weight="700">Voice Confidant ("Sarthi AI") & Radar</text>
+<line x1="2210" y1="1530" x2="2607" y2="1530" stroke="#334155" stroke-width="1" />
+<text x="2210" y="1558" fill="#E2E8F0" font-size="12.5" font-weight="500">• Indic Voice: Sub-500ms natural Punjabi, Hindi, and English code-switching.</text>
+<text x="2210" y="1581" fill="#E2E8F0" font-size="12.5" font-weight="500">• Episodic Memory: Vector DB tracks 100+ family details, medical history, childhood stories.</text>
+<text x="2210" y="1604" fill="#E2E8F0" font-size="12.5" font-weight="500">• Night-Owl Mode: Automatically engages at 3:00 AM with gentle soothing dialogue.</text>
+<text x="2210" y="1627" fill="#E2E8F0" font-size="12.5" font-weight="500">• Acoustic Biomarkers: Real-time analysis of jitter, shimmer, pitch, and vocal fatigue.</text>
+<text x="2210" y="1650" fill="#E2E8F0" font-size="12.5" font-weight="500">• Cloud Architecture: Serverless Cloud Run + Groq Whisper + Indic TTS (₹0 idle cost).</text>
+<rect x="2651" y="1440" width="437" height="910" rx="16" fill="#161E2E" stroke="#10B981" stroke-width="1.5" filter="url(#card-shadow)" />
+<rect x="2671" y="1460" width="207.0" height="26" rx="6" fill="#10B98122" stroke="#10B981" stroke-width="1" />
+<text x="2681" y="1478" fill="#10B981" font-size="11" font-weight="700" letter-spacing="0.8">PILLAR II: HUMAN TRUST</text>
+<text x="3068" y="1478" text-anchor="end" fill="#64748B" font-size="10.5" font-family="monospace">1:30 Trusted Matriarch Network</text>
+<text x="2671" y="1515" fill="#F8FAFC" font-size="17" font-weight="700">Dedicated Relationship Manager (RM)</text>
+<line x1="2671" y1="1530" x2="3068" y2="1530" stroke="#334155" stroke-width="1" />
+<text x="2671" y="1558" fill="#E2E8F0" font-size="12.5" font-weight="500">• Profile: Cultured 45-55yo community matriarchs (retired teachers, defense spouses).</text>
+<text x="2671" y="1581" fill="#E2E8F0" font-size="12.5" font-weight="500">• Responsibilities: Bi-weekly high-touch tea visits, trust anchor, gatekeeper.</text>
+<text x="2671" y="1604" fill="#E2E8F0" font-size="12.5" font-weight="500">• NRI Video Digest: Auto-compiles weekly 90-second WhatsApp video updates for NRI kids.</text>
+<text x="2671" y="1627" fill="#E2E8F0" font-size="12.5" font-weight="500">• Manageability: 1 RM oversees 30 seniors easily with AI conversational summaries.</text>
+<rect x="3112" y="1440" width="437" height="910" rx="16" fill="#161E2E" stroke="#F59E0B" stroke-width="1.5" filter="url(#card-shadow)" />
+<rect x="3132" y="1460" width="241.0" height="26" rx="6" fill="#F59E0B22" stroke="#F59E0B" stroke-width="1" />
+<text x="3142" y="1478" fill="#F59E0B" font-size="11" font-weight="700" letter-spacing="0.8">PILLAR III: ON-DEMAND GIGS</text>
+<text x="3529" y="1478" text-anchor="end" fill="#64748B" font-size="10.5" font-family="monospace">Task-Based Anti-Leakage Moat</text>
+<text x="3132" y="1515" fill="#F8FAFC" font-size="17" font-weight="700">Dynamic Gig Force & Medical Network</text>
+<line x1="3132" y1="1530" x2="3529" y2="1530" stroke="#334155" stroke-width="1" />
+<text x="3132" y="1558" fill="#E2E8F0" font-size="12.5" font-weight="500">• Unbundled Labor: University students handle outdoor walks, tech tutoring, errands.</text>
+<text x="3132" y="1581" fill="#E2E8F0" font-size="12.5" font-weight="500">• Anti-Leakage Moat: Gigs are strictly task-based outside the house; no private poaching.</text>
+<text x="3132" y="1604" fill="#E2E8F0" font-size="12.5" font-weight="500">• Medical API Integration: Phlebotomists (Dr. Lal/SRL) and licensed nurses dispatched on-demand.</text>
+<rect x="3573" y="1440" width="437" height="910" rx="16" fill="#161E2E" stroke="#EC4899" stroke-width="1.5" filter="url(#card-shadow)" />
+<rect x="3593" y="1460" width="190.0" height="26" rx="6" fill="#EC489922" stroke="#EC4899" stroke-width="1" />
+<text x="3603" y="1478" fill="#EC4899" font-size="11" font-weight="700" letter-spacing="0.8">PILLAR IV: COMMUNITY</text>
+<text x="3990" y="1478" text-anchor="end" fill="#64748B" font-size="10.5" font-family="monospace">Hyperlocal Neighborhood Clusters</text>
+<text x="3593" y="1515" fill="#F8FAFC" font-size="17" font-weight="700">"The Golden Club" Thematic Circles</text>
+<line x1="3593" y1="1530" x2="3990" y2="1530" stroke="#334155" stroke-width="1" />
+<text x="3593" y="1558" fill="#E2E8F0" font-size="12.5" font-weight="500">• 4 Thematic Circles: Satsang/Gurbani, "Silver Talks" Memoirs, Tambola, Sukhna Nature Walks.</text>
+<text x="3593" y="1581" fill="#E2E8F0" font-size="12.5" font-weight="500">• Cluster Strategy: 10-15 seniors per 3km neighborhood pod.</text>
+<text x="3593" y="1604" fill="#E2E8F0" font-size="12.5" font-weight="500">• Retention Anchor: Families never churn because their parents make lifelong friends.</text>
+</g>
+<g id="frame_5">
+<rect x="100" y="2500" width="1920" height="1080" rx="24" fill="#0D111A" stroke="#10B981" stroke-width="2" />
+<rect x="150" y="2540" width="6" height="52" fill="#10B981" rx="3" />
+<text x="170" y="2568" fill="#FFFFFF" font-size="26" font-weight="800" letter-spacing="0.5">FRAME 5: 5 DYNAMIC BRANCHING VARIATIONS</text>
+<text x="170" y="2596" fill="#94A3B8" font-size="16" font-weight="400">Precision Service Pathways Driven by Senior Health & Family Status</text>
+<rect x="150" y="2640" width="590" height="443" rx="16" fill="#161E2E" stroke="#6366F1" stroke-width="1.5" filter="url(#card-shadow)" />
+<rect x="170" y="2660" width="241.0" height="26" rx="6" fill="#6366F122" stroke="#6366F1" stroke-width="1" />
+<text x="180" y="2678" fill="#6366F1" font-size="11" font-weight="700" letter-spacing="0.8">BRANCH 1: BEDBOUND / FRAIL</text>
+<text x="720" y="2678" text-anchor="end" fill="#64748B" font-size="10.5" font-family="monospace">Clinical Mobility Score &lt; 4</text>
+<text x="170" y="2715" fill="#F8FAFC" font-size="17" font-weight="700">The In-Home Frail Track</text>
+<line x1="170" y1="2730" x2="720" y2="2730" stroke="#334155" stroke-width="1" />
+<text x="170" y="2758" fill="#E2E8F0" font-size="12.5" font-weight="500">• Primary Trigger: Mobility score &lt; 4, post-surgery or wheelchair-bound.</text>
+<text x="170" y="2781" fill="#E2E8F0" font-size="12.5" font-weight="500">• Service Delivery: Daily AI voice check-ins (15 min morning/evening) + weekly RM visit.</text>
+<text x="170" y="2804" fill="#E2E8F0" font-size="12.5" font-weight="500">• Gig Unbundling: Partner nurse dispatched for wound dressing, bed sore prevention, vitals.</text>
+<text x="170" y="2827" fill="#E2E8F0" font-size="12.5" font-weight="500">• Output: ₹3,499/mo; zero senior loneliness; 100% medication compliance.</text>
+<rect x="764" y="2640" width="590" height="443" rx="16" fill="#161E2E" stroke="#10B981" stroke-width="1.5" filter="url(#card-shadow)" />
+<rect x="784" y="2660" width="232.5" height="26" rx="6" fill="#10B98122" stroke="#10B981" stroke-width="1" />
+<text x="794" y="2678" fill="#10B981" font-size="11" font-weight="700" letter-spacing="0.8">BRANCH 2: MOBILE & LONELY</text>
+<text x="1334" y="2678" text-anchor="end" fill="#64748B" font-size="10.5" font-family="monospace">High Cognitive &amp; Physical Vitality</text>
+<text x="784" y="2715" fill="#F8FAFC" font-size="17" font-weight="700">The Active Social Club Track</text>
+<line x1="784" y1="2730" x2="1334" y2="2730" stroke="#334155" stroke-width="1" />
+<text x="784" y="2758" fill="#E2E8F0" font-size="12.5" font-weight="500">• Primary Trigger: Healthy senior living alone with high cognitive vitality.</text>
+<text x="784" y="2781" fill="#E2E8F0" font-size="12.5" font-weight="500">• Service Delivery: Weekly Golden Club meetups at community halls / Sukhna Lake.</text>
+<text x="784" y="2804" fill="#E2E8F0" font-size="12.5" font-weight="500">• Engagement: Memoirs recorded by AI into hardbound physical books for grandchildren.</text>
+<text x="784" y="2827" fill="#E2E8F0" font-size="12.5" font-weight="500">• Output: ₹2,499/mo; senior transitions from isolated to neighborhood mentor.</text>
+<rect x="1378" y="2640" width="590" height="443" rx="16" fill="#161E2E" stroke="#EF4444" stroke-width="1.5" filter="url(#card-shadow)" />
+<rect x="1398" y="2660" width="266.5" height="26" rx="6" fill="#EF444422" stroke="#EF4444" stroke-width="1" />
+<text x="1408" y="2678" fill="#EF4444" font-size="11" font-weight="700" letter-spacing="0.8">BRANCH 3: HIGH-ACUITY CHRONIC</text>
+<text x="1948" y="2678" text-anchor="end" fill="#64748B" font-size="10.5" font-family="monospace">Chronic Disease Management</text>
+<text x="1398" y="2715" fill="#F8FAFC" font-size="17" font-weight="700">The High-Acuity Medical Track</text>
+<line x1="1398" y1="2730" x2="1948" y2="2730" stroke="#334155" stroke-width="1" />
+<text x="1398" y="2758" fill="#E2E8F0" font-size="12.5" font-weight="500">• Primary Trigger: Severe COPD, CHF, Parkinson's or Post-Stroke rehabilitation.</text>
+<text x="1398" y="2781" fill="#E2E8F0" font-size="12.5" font-weight="500">• Service Delivery: Continuous IoT acoustic radar + weekly blood draw by SRL partner.</text>
+<text x="1398" y="2804" fill="#E2E8F0" font-size="12.5" font-weight="500">• Triage Escalation: Direct tele-consult with Fortis Mohali geriatric specialists.</text>
+<text x="1398" y="2827" fill="#E2E8F0" font-size="12.5" font-weight="500">• Output: ₹6,999/mo; 40% reduction in emergency room admissions.</text>
+<rect x="150" y="3107" width="898" height="443" rx="16" fill="#161E2E" stroke="#F59E0B" stroke-width="1.5" filter="url(#card-shadow)" />
+<rect x="170" y="3127" width="232.5" height="26" rx="6" fill="#F59E0B22" stroke="#F59E0B" stroke-width="1" />
+<text x="180" y="3145" fill="#F59E0B" font-size="11" font-weight="700" letter-spacing="0.8">BRANCH 4: GLOBAL GUARDIAN</text>
+<text x="1028" y="3145" text-anchor="end" fill="#64748B" font-size="10.5" font-family="monospace">Diaspora Family Assurance</text>
+<text x="170" y="3182" fill="#F8FAFC" font-size="17" font-weight="700">The NRI Remote Child Track</text>
+<line x1="170" y1="3197" x2="1028" y2="3197" stroke="#334155" stroke-width="1" />
+<text x="170" y="3225" fill="#E2E8F0" font-size="12.5" font-weight="500">• Primary Trigger: Child lives in Canada, USA, UK, or UAE with severe guilt/anxiety.</text>
+<text x="170" y="3248" fill="#E2E8F0" font-size="12.5" font-weight="500">• Service Delivery: 24/7 child dashboard, automated Sunday 90s WhatsApp video reel.</text>
+<text x="170" y="3271" fill="#E2E8F0" font-size="12.5" font-weight="500">• Frictionless Billing: $79 USD/mo billed via Stripe with concierge billing.</text>
+<text x="170" y="3294" fill="#E2E8F0" font-size="12.5" font-weight="500">• Output: Zero distance anxiety; child becomes long-term brand ambassador.</text>
+<rect x="1072" y="3107" width="898" height="443" rx="16" fill="#161E2E" stroke="#EC4899" stroke-width="1.5" filter="url(#card-shadow)" />
+<rect x="1092" y="3127" width="198.5" height="26" rx="6" fill="#EC489922" stroke="#EC4899" stroke-width="1" />
+<text x="1102" y="3145" fill="#EC4899" font-size="11" font-weight="700" letter-spacing="0.8">BRANCH 5: BEREAVEMENT</text>
+<text x="1950" y="3145" text-anchor="end" fill="#64748B" font-size="10.5" font-family="monospace">180-Day Critical Hazard Window</text>
+<text x="1092" y="3182" fill="#F8FAFC" font-size="17" font-weight="700">The Acute Grief / Bereavement Track</text>
+<line x1="1092" y1="3197" x2="1950" y2="3197" stroke="#334155" stroke-width="1" />
+<text x="1092" y="3225" fill="#E2E8F0" font-size="12.5" font-weight="500">• Primary Trigger: Loss of spouse within last 6 months (peak suicide/depression risk).</text>
+<text x="1092" y="3248" fill="#E2E8F0" font-size="12.5" font-weight="500">• Service Delivery: Nightly 3:00 AM conversational soothing; daily gentle RM phone touchpoints.</text>
+<text x="1092" y="3271" fill="#E2E8F0" font-size="12.5" font-weight="500">• Slow Integration: Gentle transition into Golden Club remembrance storytelling circles.</text>
+<text x="1092" y="3294" fill="#E2E8F0" font-size="12.5" font-weight="500">• Output: Rapid mitigation of acute existential depression.</text>
+</g>
+<g id="frame_6">
+<rect x="2140" y="2500" width="1920" height="1080" rx="24" fill="#0D111A" stroke="#06B6D4" stroke-width="2" />
+<rect x="2190" y="2540" width="6" height="52" fill="#06B6D4" rx="3" />
+<text x="2210" y="2568" fill="#FFFFFF" font-size="26" font-weight="800" letter-spacing="0.5">FRAME 6: PLATFORM ARCHITECTURE & SCALE-TO-ZERO TECH</text>
+<text x="2210" y="2596" fill="#94A3B8" font-size="16" font-weight="400">Serverless Cloud Run, Indic Voice Pipeline, Vector Memory, Acoustic Radar</text>
+<rect x="2190" y="2640" width="437" height="910" rx="16" fill="#161E2E" stroke="#06B6D4" stroke-width="1.5" filter="url(#card-shadow)" />
+<rect x="2210" y="2660" width="173.0" height="26" rx="6" fill="#06B6D422" stroke="#06B6D4" stroke-width="1" />
+<text x="2220" y="2678" fill="#06B6D4" font-size="11" font-weight="700" letter-spacing="0.8">SUB-500MS PIPELINE</text>
+<text x="2607" y="2678" text-anchor="end" fill="#64748B" font-size="10.5" font-family="monospace">github.com/snakers4/silero-vad | groq.com | s</text>
+<text x="2210" y="2715" fill="#F8FAFC" font-size="17" font-weight="700">Indic Conversational Voice Engine</text>
+<line x1="2210" y1="2730" x2="2607" y2="2730" stroke="#334155" stroke-width="1" />
+<text x="2210" y="2758" fill="#E2E8F0" font-size="12.5" font-weight="500">• Voice Activity Detection (Silero VAD) -&gt; Fast ASR (Groq Whisper, 150ms).</text>
+<text x="2210" y="2781" fill="#E2E8F0" font-size="12.5" font-weight="500">• LLM Inference: Llama-3.3-70B on Groq / Gemini 1.5 Flash (sub-250ms).</text>
+<text x="2210" y="2804" fill="#E2E8F0" font-size="12.5" font-weight="500">• Indic TTS: ElevenLabs / Sarvam AI / Bhashini streaming audio chunks.</text>
+<text x="2210" y="2827" fill="#E2E8F0" font-size="12.5" font-weight="500">• Total glass-to-glass latency: 480ms (natural, interruption-aware conversation).</text>
+<rect x="2651" y="2640" width="437" height="910" rx="16" fill="#161E2E" stroke="#10B981" stroke-width="1.5" filter="url(#card-shadow)" />
+<rect x="2671" y="2660" width="130.5" height="26" rx="6" fill="#10B98122" stroke="#10B981" stroke-width="1" />
+<text x="2681" y="2678" fill="#10B981" font-size="11" font-weight="700" letter-spacing="0.8">SCALE-TO-ZERO</text>
+<text x="3068" y="2678" text-anchor="end" fill="#64748B" font-size="10.5" font-family="monospace">cloud.google.com/run | supabase.com</text>
+<text x="2671" y="2715" fill="#F8FAFC" font-size="17" font-weight="700">Zero Fixed Burn Infrastructure</text>
+<line x1="2671" y1="2730" x2="3068" y2="2730" stroke="#334155" stroke-width="1" />
+<text x="2671" y="2758" fill="#E2E8F0" font-size="12.5" font-weight="500">• Google Cloud Run serverless microservices scale to 0 instances when idle.</text>
+<text x="2671" y="2781" fill="#E2E8F0" font-size="12.5" font-weight="500">• Database: Supabase / Firebase with Row-Level Security for senior records.</text>
+<text x="2671" y="2804" fill="#E2E8F0" font-size="12.5" font-weight="500">• Fixed monthly software burn: ₹0 when no calls are active.</text>
+<text x="2671" y="2827" fill="#E2E8F0" font-size="12.5" font-weight="500">• Marginal cost per senior: ₹70 - ₹120 / month for 60 minutes of daily voice AI.</text>
+<rect x="3112" y="2640" width="437" height="910" rx="16" fill="#161E2E" stroke="#8B5CF6" stroke-width="1.5" filter="url(#card-shadow)" />
+<rect x="3132" y="2660" width="156.0" height="26" rx="6" fill="#8B5CF622" stroke="#8B5CF6" stroke-width="1" />
+<text x="3142" y="2678" fill="#8B5CF6" font-size="11" font-weight="700" letter-spacing="0.8">LONG-TERM MEMORY</text>
+<text x="3529" y="2678" text-anchor="end" fill="#64748B" font-size="10.5" font-family="monospace">PGVector &amp; Graph Embeddings</text>
+<text x="3132" y="2715" fill="#F8FAFC" font-size="17" font-weight="700">Episodic Senior Graph Memory</text>
+<line x1="3132" y1="2730" x2="3529" y2="2730" stroke="#334155" stroke-width="1" />
+<text x="3132" y="2758" fill="#E2E8F0" font-size="12.5" font-weight="500">• PGVector / Pinecone vector embeddings for senior life history &amp; medication logs.</text>
+<text x="3132" y="2781" fill="#E2E8F0" font-size="12.5" font-weight="500">• Automatic entity extraction: Grandchildren's exams, favorite Gurbani, knee pain.</text>
+<text x="3132" y="2804" fill="#E2E8F0" font-size="12.5" font-weight="500">• Dynamic context injection makes every call feel like speaking to a lifelong companion.</text>
+<rect x="3573" y="2640" width="437" height="910" rx="16" fill="#161E2E" stroke="#EF4444" stroke-width="1.5" filter="url(#card-shadow)" />
+<rect x="3593" y="2660" width="156.0" height="26" rx="6" fill="#EF444422" stroke="#EF4444" stroke-width="1" />
+<text x="3603" y="2678" fill="#EF4444" font-size="11" font-weight="700" letter-spacing="0.8">HEALTH TELEMETRY</text>
+<text x="3990" y="2678" text-anchor="end" fill="#64748B" font-size="10.5" font-family="monospace">Vocal Jitter &amp; Biomarker Analysis</text>
+<text x="3593" y="2715" fill="#F8FAFC" font-size="17" font-weight="700">Acoustic Biomarker Surveillance</text>
+<line x1="3593" y1="2730" x2="3990" y2="2730" stroke="#334155" stroke-width="1" />
+<text x="3593" y="2758" fill="#E2E8F0" font-size="12.5" font-weight="500">• Acoustic feature extraction: Vocal jitter, tremor, speech rate, pause length.</text>
+<text x="3593" y="2781" fill="#E2E8F0" font-size="12.5" font-weight="500">• Early Detection: Detects impending cognitive decline, respiratory distress.</text>
+<text x="3593" y="2804" fill="#E2E8F0" font-size="12.5" font-weight="500">• Automated alert dispatched to RM dashboard when vocal anomaly exceeds 2 sigma.</text>
+</g>
+<g id="frame_7">
+<rect x="100" y="3700" width="1920" height="1080" rx="24" fill="#0D111A" stroke="#10B981" stroke-width="2" />
+<rect x="150" y="3740" width="6" height="52" fill="#10B981" rx="3" />
+<text x="170" y="3768" fill="#FFFFFF" font-size="26" font-weight="800" letter-spacing="0.5">FRAME 7: UNIT ECONOMICS & 3-YEAR FINANCIAL PROJECTIONS</text>
+<text x="170" y="3796" fill="#94A3B8" font-size="16" font-weight="400">₹2,499 Hybrid Model, 62% Gross Margin, 30-Senior Breakeven, Year-3 P&L</text>
+<rect x="150" y="3840" width="437" height="910" rx="16" fill="#161E2E" stroke="#10B981" stroke-width="1.5" filter="url(#card-shadow)" />
+<rect x="170" y="3860" width="130.5" height="26" rx="6" fill="#10B98122" stroke="#10B981" stroke-width="1" />
+<text x="180" y="3878" fill="#10B981" font-size="11" font-weight="700" letter-spacing="0.8">PRICING TIERS</text>
+<text x="567" y="3878" text-anchor="end" fill="#64748B" font-size="10.5" font-family="monospace">Multi-Tier Monitization Model</text>
+<text x="170" y="3915" fill="#F8FAFC" font-size="17" font-weight="700">Subscription Tier Breakdown</text>
+<line x1="170" y1="3930" x2="567" y2="3930" stroke="#334155" stroke-width="1" />
+<text x="170" y="3958" fill="#E2E8F0" font-size="12.5" font-weight="500">• Tier 1 (Digital Voice Angel): ₹599/mo (24/7 AI Confidant + Night Radar).</text>
+<text x="170" y="3981" fill="#E2E8F0" font-size="12.5" font-weight="500">• Tier 2 (Core Hybrid Companion): ₹2,499/mo (AI + Bi-weekly RM + Golden Club).</text>
+<text x="170" y="4004" fill="#E2E8F0" font-size="12.5" font-weight="500">• Tier 3 (Global Guardian NRI): $79 USD (~₹6,500/mo) (AI + RM + Video Digest + Lab).</text>
+<text x="170" y="4027" fill="#E2E8F0" font-size="12.5" font-weight="500">• Add-on Gigs: ₹299/errand (70% to student gig worker, 30% platform margin).</text>
+<rect x="611" y="3840" width="437" height="910" rx="16" fill="#161E2E" stroke="#3B82F6" stroke-width="1.5" filter="url(#card-shadow)" />
+<rect x="631" y="3860" width="147.5" height="26" rx="6" fill="#3B82F622" stroke="#3B82F6" stroke-width="1" />
+<text x="641" y="3878" fill="#3B82F6" font-size="11" font-weight="700" letter-spacing="0.8">COGS PER SENIOR</text>
+<text x="1028" y="3878" text-anchor="end" fill="#64748B" font-size="10.5" font-family="monospace">63.2% Gross Margin Architecture</text>
+<text x="631" y="3915" fill="#F8FAFC" font-size="17" font-weight="700">Monthly Unit Economics (Tier 2 @ ₹2,499)</text>
+<line x1="631" y1="3930" x2="1028" y2="3930" stroke="#334155" stroke-width="1" />
+<text x="631" y="3958" fill="#E2E8F0" font-size="12.5" font-weight="500">• Revenue per Senior: ₹2,499</text>
+<text x="631" y="3981" fill="#E2E8F0" font-size="12.5" font-weight="500">• Relationship Manager Cost: ₹600 (RM paid ₹18k/mo to manage 30 seniors)</text>
+<text x="631" y="4004" fill="#E2E8F0" font-size="12.5" font-weight="500">• AI Voice &amp; Telephony APIs: ₹120 (60 mins daily usage)</text>
+<text x="631" y="4027" fill="#E2E8F0" font-size="12.5" font-weight="500">• Club Venue &amp; Tea: ₹200 (₹50/week at local community hall)</text>
+<text x="631" y="4050" fill="#E2E8F0" font-size="12.5" font-weight="500">• Total COGS: ₹920 | Gross Profit: ₹1,579 (63.2% Gross Margin!)</text>
+<rect x="1072" y="3840" width="437" height="910" rx="16" fill="#161E2E" stroke="#F59E0B" stroke-width="1.5" filter="url(#card-shadow)" />
+<rect x="1092" y="3860" width="96.5" height="26" rx="6" fill="#F59E0B22" stroke="#F59E0B" stroke-width="1" />
+<text x="1102" y="3878" fill="#F59E0B" font-size="11" font-weight="700" letter-spacing="0.8">BREAKEVEN</text>
+<text x="1489" y="3878" text-anchor="end" fill="#64748B" font-size="10.5" font-family="monospace">19-20 Senior Hub Threshold</text>
+<text x="1092" y="3915" fill="#F8FAFC" font-size="17" font-weight="700">Micro-Hub Breakeven Dynamics</text>
+<line x1="1092" y1="3930" x2="1489" y2="3930" stroke="#334155" stroke-width="1" />
+<text x="1092" y="3958" fill="#E2E8F0" font-size="12.5" font-weight="500">• Fixed Micro-Hub Overhead: ₹30,000 / month (Local marketing, supervisor).</text>
+<text x="1092" y="3981" fill="#E2E8F0" font-size="12.5" font-weight="500">• Contribution Margin per Senior: ₹1,579 / month.</text>
+<text x="1092" y="4004" fill="#E2E8F0" font-size="12.5" font-weight="500">• Breakeven Volume: Exactly 19-20 seniors per neighborhood cluster!</text>
+<text x="1092" y="4027" fill="#E2E8F0" font-size="12.5" font-weight="500">• Target: 100 seniors per hub produces ₹1.27 Lakh monthly net operating profit.</text>
+<rect x="1533" y="3840" width="437" height="910" rx="16" fill="#161E2E" stroke="#EC4899" stroke-width="1.5" filter="url(#card-shadow)" />
+<rect x="1553" y="3860" width="122.0" height="26" rx="6" fill="#EC489922" stroke="#EC4899" stroke-width="1" />
+<text x="1563" y="3878" fill="#EC4899" font-size="11" font-weight="700" letter-spacing="0.8">3-YEAR SCALE</text>
+<text x="1950" y="3878" text-anchor="end" fill="#64748B" font-size="10.5" font-family="monospace">₹20.5 Cr ARR Scaling Roadmap</text>
+<text x="1553" y="3915" fill="#F8FAFC" font-size="17" font-weight="700">Tricity to Pan-India Projection</text>
+<line x1="1553" y1="3930" x2="1950" y2="3930" stroke="#334155" stroke-width="1" />
+<text x="1553" y="3958" fill="#E2E8F0" font-size="12.5" font-weight="500">• Year 1 (Tricity Pilot - 3 Hubs): 300 Seniors | ₹90 Lakh ARR | EBITDA Positive.</text>
+<text x="1553" y="3981" fill="#E2E8F0" font-size="12.5" font-weight="500">• Year 2 (Punjab &amp; Haryana - 12 Hubs): 1,500 Seniors | ₹4.8 Crore ARR | ₹1.8 Cr EBITDA.</text>
+<text x="1553" y="4004" fill="#E2E8F0" font-size="12.5" font-weight="500">• Year 3 (Pan-India Metro Exp - 40 Hubs): 6,000 Seniors | ₹20.5 Crore ARR | 38% Margin.</text>
+</g>
+<g id="frame_8">
+<rect x="2140" y="3700" width="1920" height="1080" rx="24" fill="#0D111A" stroke="#F59E0B" stroke-width="2" />
+<rect x="2190" y="3740" width="6" height="52" fill="#F59E0B" rx="3" />
+<text x="2210" y="3768" fill="#FFFFFF" font-size="26" font-weight="800" letter-spacing="0.5">FRAME 8: GO-TO-MARKET & 90-DAY TRICITY EXECUTION PLAN</text>
+<text x="2210" y="3796" fill="#94A3B8" font-size="16" font-weight="400">Zero-CAC RWA Infiltration, Gurdwaras, Doctor Prescriptions & Referral Loops</text>
+<rect x="2190" y="3840" width="590" height="910" rx="16" fill="#161E2E" stroke="#EF4444" stroke-width="1.5" filter="url(#card-shadow)" />
+<rect x="2210" y="3860" width="156.0" height="26" rx="6" fill="#EF444422" stroke="#EF4444" stroke-width="1" />
+<text x="2220" y="3878" fill="#EF4444" font-size="11" font-weight="700" letter-spacing="0.8">DAYS 1-30: INFRA</text>
+<text x="2760" y="3878" text-anchor="end" fill="#64748B" font-size="10.5" font-family="monospace">SLIET / Mohali Phase 1 Deployment</text>
+<text x="2210" y="3915" fill="#F8FAFC" font-size="17" font-weight="700">Phase 1: Zero-Burn Pilot Setup</text>
+<line x1="2210" y1="3930" x2="2760" y2="3930" stroke="#334155" stroke-width="1" />
+<text x="2210" y="3958" fill="#E2E8F0" font-size="12.5" font-weight="500">• Deploy Indic Voice Sarthi AI on Cloud Run; connect to WhatsApp Twilio gateway.</text>
+<text x="2210" y="3981" fill="#E2E8F0" font-size="12.5" font-weight="500">• Recruit 2 Cultured Relationship Managers (retired defense spouses in Mohali/Sec 34).</text>
+<text x="2210" y="4004" fill="#E2E8F0" font-size="12.5" font-weight="500">• Negotiate venue partnership with 2 local Sector community centers.</text>
+<text x="2210" y="4027" fill="#E2E8F0" font-size="12.5" font-weight="500">• Onboard first 15 pilot families with 14-day free trial.</text>
+<rect x="2804" y="3840" width="590" height="910" rx="16" fill="#161E2E" stroke="#F59E0B" stroke-width="1.5" filter="url(#card-shadow)" />
+<rect x="2824" y="3860" width="224.0" height="26" rx="6" fill="#F59E0B22" stroke="#F59E0B" stroke-width="1" />
+<text x="2834" y="3878" fill="#F59E0B" font-size="11" font-weight="700" letter-spacing="0.8">DAYS 31-60: DISTRIBUTION</text>
+<text x="3374" y="3878" text-anchor="end" fill="#64748B" font-size="10.5" font-family="monospace">Zero-CAC Community Activations</text>
+<text x="2824" y="3915" fill="#F8FAFC" font-size="17" font-weight="700">Phase 2: Hyperlocal RWA & Gurdwara Engine</text>
+<line x1="2824" y1="3930" x2="3374" y2="3930" stroke="#334155" stroke-width="1" />
+<text x="2824" y="3958" fill="#E2E8F0" font-size="12.5" font-weight="500">• Host "Silver Wellbeing Mornings" with free BP &amp; cognitive checks at RWAs.</text>
+<text x="2824" y="3981" fill="#E2E8F0" font-size="12.5" font-weight="500">• Gurdwara &amp; Temple morning announcements celebrating "Grandchild Seva".</text>
+<text x="2824" y="4004" fill="#E2E8F0" font-size="12.5" font-weight="500">• Digital Geo-targeted Ads in Brampton, Surrey, &amp; London targeting Punjabi NRI children.</text>
+<text x="2824" y="4027" fill="#E2E8F0" font-size="12.5" font-weight="500">• Reach 100 paid active subscribers across Chandigarh and Mohali.</text>
+<rect x="3418" y="3840" width="590" height="910" rx="16" fill="#161E2E" stroke="#10B981" stroke-width="1.5" filter="url(#card-shadow)" />
+<rect x="3438" y="3860" width="164.5" height="26" rx="6" fill="#10B98122" stroke="#10B981" stroke-width="1" />
+<text x="3448" y="3878" fill="#10B981" font-size="11" font-weight="700" letter-spacing="0.8">DAYS 61-90: SCALE</text>
+<text x="3988" y="3878" text-anchor="end" fill="#64748B" font-size="10.5" font-family="monospace">Hospital Discharge Desk Partnerships</text>
+<text x="3438" y="3915" fill="#F8FAFC" font-size="17" font-weight="700">Phase 3: Institutional Flywheel & Moat</text>
+<line x1="3438" y1="3930" x2="3988" y2="3930" stroke="#334155" stroke-width="1" />
+<text x="3438" y="3958" fill="#E2E8F0" font-size="12.5" font-weight="500">• Launch official tie-up with Fortis Mohali &amp; Max Hospital Geriatric discharge desks.</text>
+<text x="3438" y="3981" fill="#E2E8F0" font-size="12.5" font-weight="500">• Release "Sunday 90-Second WhatsApp Reel" feature for NRI family delight.</text>
+<text x="3438" y="4004" fill="#E2E8F0" font-size="12.5" font-weight="500">• Launch "The Golden Club" weekly Satsang and nature walks.</text>
+<text x="3438" y="4027" fill="#E2E8F0" font-size="12.5" font-weight="500">• Reach 300 subscribers; establish second hub in Panchkula; prepare Seed Round.</text>
+</g>
+</svg>

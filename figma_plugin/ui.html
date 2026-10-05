@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Autonomous Eldercare OS</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; }
+    body { background: #0E131F; color: #F1F5F9; padding: 20px; font-size: 13px; line-height: 1.5; }
+    h1 { font-size: 18px; font-weight: 800; color: #FFFFFF; display: flex; align-items: center; gap: 8px; margin-bottom: 4px; }
+    .badge-gold { background: #F59E0B22; color: #F59E0B; border: 1px solid #F59E0B66; padding: 2px 8px; border-radius: 4px; font-size: 10px; font-weight: 700; text-transform: uppercase; }
+    p.sub { font-size: 12px; color: #94A3B8; margin-bottom: 18px; }
+    
+    .section-title { font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px; color: #64748B; margin: 14px 0 8px 0; }
+    
+    .btn { display: block; width: 100%; padding: 12px; border-radius: 8px; font-size: 13px; font-weight: 700; text-align: center; cursor: pointer; border: none; transition: all 0.2s ease; margin-bottom: 10px; }
+    .btn-primary { background: linear-gradient(135deg, #3B82F6 0%, #1D4ED8 100%); color: #FFFFFF; box-shadow: 0 4px 12px rgba(59, 130, 246, 0.3); }
+    .btn-primary:hover { background: linear-gradient(135deg, #60A5FA 0%, #2563EB 100%); transform: translateY(-1px); }
+    .btn-secondary { background: #1E293B; color: #E2E8F0; border: 1px solid #334155; }
+    .btn-secondary:hover { background: #334155; color: #FFFFFF; }
+    
+    .grid { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; margin-bottom: 12px; }
+    
+    .select-box, select { width: 100%; background: #1E293B; border: 1px solid #334155; color: #F8FAFC; padding: 9px 12px; border-radius: 6px; font-size: 12px; outline: none; margin-bottom: 10px; }
+    
+    .pill-group { display: flex; gap: 6px; margin-bottom: 12px; }
+    .pill { flex: 1; text-align: center; padding: 8px 4px; background: #1E293B; border: 1px solid #334155; border-radius: 6px; font-size: 11px; font-weight: 600; cursor: pointer; color: #94A3B8; }
+    .pill.active { background: #3B82F622; border-color: #3B82F6; color: #60A5FA; }
+
+    .feature-card { background: #151D2E; border: 1px solid #1E293B; border-radius: 8px; padding: 12px; margin-top: 14px; }
+    .feature-row { display: flex; align-items: center; gap: 8px; font-size: 11.5px; color: #CBD5E1; margin-bottom: 6px; }
+    .feature-row:last-child { margin-bottom: 0; }
+    .dot { width: 6px; height: 6px; border-radius: 50%; background: #10B981; }
+    
+    .status { margin-top: 14px; padding: 10px; border-radius: 6px; background: #0B0F19; border: 1px dashed #334155; font-size: 11.5px; color: #94A3B8; text-align: center; }
+  </style>
+</head>
+<body>
+  <h1>Autonomous Eldercare OS <span class="badge-gold">PRO</span></h1>
+  <p class="sub">Full Programmatic Canvas Generation (Figma & FigJam)</p>
+
+  <div class="section-title">Color Theme</div>
+  <div class="pill-group">
+    <div class="pill active" id="themeDark" onclick="setTheme('dark')">Dark Obsidian</div>
+    <div class="pill" id="themeLight" onclick="setTheme('light')">Clean Light</div>
+  </div>
+
+  <div class="section-title">Generation Scope</div>
+  <select id="frameSelector">
+    <option value="all">⚡ Complete Universe (All 8 Frames)</option>
+    <option value="0">Frame 1: Competitive & Local Tricity Intel</option>
+    <option value="1">Frame 2: Clinical, Biological & 3 AM Void</option>
+    <option value="2">Frame 3: Global Precedents (US, Korea, Japan)</option>
+    <option value="3">Frame 4: The 4 Core System Pillars</option>
+    <option value="4">Frame 5: 5 Dynamic Branching Variations</option>
+    <option value="5">Frame 6: Platform Architecture & Voice Pipeline</option>
+    <option value="6">Frame 7: Unit Economics & 3-Year P&L</option>
+    <option value="7">Frame 8: 90-Day Tricity Execution Plan</option>
+  </select>
+
+  <div class="section-title">Engine Options</div>
+  <div class="grid">
+    <label style="display:flex; align-items:center; gap:6px; font-size:11.5px; color:#CBD5E1; cursor:pointer;">
+      <input type="checkbox" id="autoLayoutToggle" checked> Auto Layout Hug
+    </label>
+    <label style="display:flex; align-items:center; gap:6px; font-size:11.5px; color:#CBD5E1; cursor:pointer;">
+      <input type="checkbox" id="tokensToggle" checked> Create Color Styles
+    </label>
+  </div>
+
+  <button class="btn btn-primary" id="generateBtn" onclick="generate()">
+    🚀 Generate Auto-Layout Canvas
+  </button>
+  
+  <button class="btn btn-secondary" id="figjamBtn" onclick="generateFigjam()">
+    📝 Generate Native FigJam Stickies Mode
+  </button>
+
+  <div class="feature-card">
+    <div class="feature-row"><span class="dot"></span> 8 Auto Layout Master Frames (1920×1080)</div>
+    <div class="feature-row"><span class="dot"></span> Self-expanding cards (No text overflow)</div>
+    <div class="feature-row"><span class="dot"></span> Creates document Design Tokens / Styles</div>
+    <div class="feature-row"><span class="dot"></span> Pure vector, 100% native Figma hierarchy</div>
+  </div>
+
+  <div class="status" id="statusBox">Ready to generate. Click above to run.</div>
+
+  <script>
+    let currentTheme = 'dark';
+
+    function setTheme(theme) {
+      currentTheme = theme;
+      document.getElementById('themeDark').className = 'pill' + (theme === 'dark' ? ' active' : '');
+      document.getElementById('themeLight').className = 'pill' + (theme === 'light' ? ' active' : '');
+    }
+
+    function generate() {
+      const scope = document.getElementById('frameSelector').value;
+      const autoLayout = document.getElementById('autoLayoutToggle').checked;
+      const createTokens = document.getElementById('tokensToggle').checked;
+      
+      document.getElementById('statusBox').innerText = 'Generating native Auto Layout canvas...';
+      
+      parent.postMessage({
+        pluginMessage: {
+          type: 'generate-canvas',
+          scope: scope,
+          theme: currentTheme,
+          autoLayout: autoLayout,
+          createTokens: createTokens,
+          mode: 'design'
+        }
+      }, '*');
+    }
+
+    function generateFigjam() {
+      const scope = document.getElementById('frameSelector').value;
+      document.getElementById('statusBox').innerText = 'Generating FigJam stickies & sections...';
+      
+      parent.postMessage({
+        pluginMessage: {
+          type: 'generate-canvas',
+          scope: scope,
+          theme: currentTheme,
+          autoLayout: true,
+          createTokens: false,
+          mode: 'figjam'
+        }
+      }, '*');
+    }
+
+    window.onmessage = (event) => {
+      const msg = event.data.pluginMessage;
+      if (msg && msg.type === 'status') {
+        document.getElementById('statusBox').innerText = msg.text;
+      }
+    };
+  </script>
+</body>
+</html>
