@@ -38,6 +38,10 @@ export default defineConfig({
 					label: '🌐 Market & Competitive Intelligence',
 					items: [{ autogenerate: { directory: 'market' } }],
 				},
+				{
+					label: '🔬 Editorial Standards & Research Schema',
+					items: [{ autogenerate: { directory: 'guidelines' } }],
+				},
 			],
 		}),
 	],
