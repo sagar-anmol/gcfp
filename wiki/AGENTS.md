@@ -129,8 +129,6 @@ When told to **"start the work"** or expand documentation, the incoming agent mu
 | ⏳ **NEXT** | `tracks/high-acuity-medical.md` | Medical Track: oncology/cardiac coordination, PGIMER / Fortis OPD navigation, red-flag firewall | Indian Telemedicine Guidelines (2020), AI emergency triage |
 | ⏳ **NEXT** | `tracks/global-nri-guardian.md` | Global NRI Guardian Track: diaspora distance anxiety, family wallet, time-zone delta management | RBI LRS remittance rules, Stripe cross-border subscriptions |
 | ⏳ **NEXT** | `tracks/acute-bereavement.md` | Spousal bereavement protocol (Days 1–90): Takotsubo cardiomyopathy risk, daily check-ins | Mostofsky et al. (2012) *Circulation*, Bereavement mortality HR |
-| ⏳ **NEXT** | `expansion/unit-economics.md` | Subscription tiers (Silver ₹3.5k, Gold ₹8.5k, Platinum ₹18k), 63.2% contribution margins | LTV/CAC ratios, RM salary costs, worker gig payouts |
-| ⏳ **NEXT** | `expansion/3-year-scaling-plan.md` | 3-Year expansion: Tricity $\to$ Ludhiana/Jalandhar $\to$ Dehradun/Jaipur; ₹90L $\to$ ₹20.5Cr ARR | Regional elderly census data, tier-2 city market density |
 | ⏳ **NEXT** | `market/tricity-landscape.md` | Tricity landscape: GoldenCares baseline, Emoha Sec 70, Samarth Chd, informal maids pricing | Primary market survey, MCA corporate registry filings |
 | ⏳ **NEXT** | `market/goodfellows-case-study.md` | Goodfellows teardown: fixed salary burn, 3% interview bottleneck, unit economics analysis | MCA filings, Goodfellows public financials & interviews |
 | ⏳ **NEXT** | `market/global-benchmarks.md` | Global benchmarks: Papa (US), Naver CareCall (KR), ElliQ (US), Buurtzorg (NL), Cera Care (UK) | ACM CHI 2023, NYSOFA report, Commonwealth Fund, NHS |

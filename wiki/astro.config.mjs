@@ -31,14 +31,6 @@ export default defineConfig({
 					items: [{ autogenerate: { directory: 'tracks' } }],
 				},
 				{
-					label: '🛣️ 90-Day Launch Roadmap',
-					items: [{ autogenerate: { directory: 'roadmap' } }],
-				},
-				{
-					label: '📈 3-Year Scaling & Unit Economics',
-					items: [{ autogenerate: { directory: 'expansion' } }],
-				},
-				{
 					label: '🌐 Market & Competitive Intelligence',
 					items: [{ autogenerate: { directory: 'market' } }],
 				},
