@@ -113,6 +113,14 @@ When told to **"start the work"** or expand documentation, the incoming agent mu
 
 | Status | File Path | Topic & Empirical Scope | Required Primary Citations |
 | :---: | :--- | :--- | :--- |
+| ✅ Done | `book/00-cover-and-intro.md` | Master Treatise: Cover, Genesis & Complete Book Table of Contents | Volume I Architectural Treatise |
+| ✅ Done | `book/01-baseline-and-the-8-problems.md` | Master Treatise: GoldenCares baseline, Tricity demographics, 8 failure modes | LASI Wave 1 (2020), Stanford SST, Karasek |
+| ✅ Done | `book/02-global-evidence-korea-deepdive.md` | Master Treatise: Naver CareCall deep dive (Godoksa, budgets KRW/INR), Papa, NYSOFA, Buurtzorg | ACM CHI 2023, NYSOFA, Commonwealth Fund, NHS |
+| ✅ Done | `book/03-the-4-pillar-solution.md` | Master Treatise: 4 Pillars & detailed operational roles (&lt;500ms voice, RM 1:30, Pods) | Groq Whisper benchmarks, Buurtzorg ratios |
+| ✅ Done | `book/04-operational-fintech-engine.md` | Master Treatise: Dynamic worker pool, RM approval firewall, Dual-bucket wallet | Fintech ledger rules, Medicare supplemental benefits |
+| ✅ Done | `book/05-current-hurdles-and-telephony-stack.md` | Master Treatise: Gaps audit, SIP trunking telecom architecture, TRAI DLT/DoT rules | Indian Telecom Regulations, WebRTC/SIP specs |
+| ✅ Done | `book/06-ecosystem-monetization-and-brand-integrations.md` | Master Treatise: Non-subscription monetization: Diagnostics (15–25%), Hospitals, NRI Property | Healthcare commission models, RBI LRS rules |
+| ✅ Done | `book/07-stress-testing-and-loopholes.md` | Master Treatise: The 7 Loopholes & Patches (Micro-zoning, Tiered thresholds, 2:1 pods) | Operational resilience matrix |
 | ✅ Done | `overview/executive-blueprint.md` | Master strategic blueprint: baseline model, 8 failures, 4 pillars, wallet, 7 patches, global trials | LASI Wave 1, Papa Pals, Naver CHI 2023, Buurtzorg, NYSOFA |
 | ✅ Done | `clinical/holt-lunstad-meta.md` | Meta-analysis on social isolation & mortality ($n=3.4\text{M}$) | Holt-Lunstad et al. (2015), DOI: `10.1177/1745691614568352` |
 | ✅ Done | `architecture/sarthi-ai-engine.md` | Sub-500ms voice pipeline, Groq LPUs, Whisper large-v3 latency budgets | Silero VAD, Groq Benchmarks, LLaMA-3.3, Indic TTS |

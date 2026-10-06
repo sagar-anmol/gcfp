@@ -15,6 +15,10 @@ export default defineConfig({
 			],
 			sidebar: [
 				{
+					label: '📖 The Master Treatise (Book)',
+					items: [{ autogenerate: { directory: 'book' } }],
+				},
+				{
 					label: '⚡ Executive Overview & Master Blueprint',
 					items: [{ autogenerate: { directory: 'overview' } }],
 				},
