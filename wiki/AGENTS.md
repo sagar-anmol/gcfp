@@ -107,6 +107,36 @@ When invoked to create or expand a wiki entry, follow these strict phases:
 
 ---
 
+## 📋 Master Research Backlog & Task Queue for Incoming Agents
+
+When told to **"start the work"** or expand documentation, the incoming agent must pick items from this prioritized backlog, conduct deep academic research, extract empirical metrics, and write/expand the markdown document using the mandatory 6-part schema.
+
+| Status | File Path | Topic & Empirical Scope | Required Primary Citations |
+| :---: | :--- | :--- | :--- |
+| ✅ Done | `overview/executive-blueprint.md` | Master strategic blueprint: baseline model, 8 failures, 4 pillars, wallet, 7 patches, global trials | LASI Wave 1, Papa Pals, Naver CHI 2023, Buurtzorg, NYSOFA |
+| ✅ Done | `clinical/holt-lunstad-meta.md` | Meta-analysis on social isolation & mortality ($n=3.4\text{M}$) | Holt-Lunstad et al. (2015), DOI: `10.1177/1745691614568352` |
+| ✅ Done | `architecture/sarthi-ai-engine.md` | Sub-500ms voice pipeline, Groq LPUs, Whisper large-v3 latency budgets | Silero VAD, Groq Benchmarks, LLaMA-3.3, Indic TTS |
+| ✅ Done | `guidelines/research-and-editorial-standards.md` | Agent research methodology & schema guidelines | Editorial standard reference |
+| ⏳ **NEXT** | `clinical/lasi-punjab-demographics.md` | Longitudinal Ageing Study in India: Punjab aging stats (12.6%), youth emigration outflow, Tricity "Silent Kothi" metrics | MoHFW / IIPS Mumbai (2020), *LASI Wave 1 India Report* |
+| ⏳ **NEXT** | `clinical/auditory-dementia-link.md` | Midlife hearing loss as 8% modifiable dementia risk; acoustic cognitive load | Livingston et al. (2020/2024), *Lancet Commission*, Lin et al. (2011) JAMA |
+| ⏳ **NEXT** | `clinical/nocturnal-melatonin-void.md` | Pineal calcification, 60–80% melatonin drop, 2 AM–5 AM circadian panic & rumination | Karasek (2004) Exp Gerontol, Vural et al. (2014) Sleep Med Rev |
+| ⏳ **NEXT** | `clinical/socioemotional-selectivity.md` | Stanford SST: ego defense vs. infantilization; shifting motivational goals | Carstensen (1995, 2006) Current Dir Psychol Sci |
+| ⏳ **NEXT** | `architecture/relationship-managers.md` | RM "Dignity Officers" on 1:30 ratio; dual-anchor, order approval gatekeeper, bi-weekly audits | Buurtzorg operational ratios, geriatric care management benchmarks |
+| ⏳ **NEXT** | `architecture/dynamic-gig-network.md` | Dynamic university escort pool (PU, PEC, Chitkara); skills tagging, primary+backup pod model | Papa Inc. operational data, CMS Medicare Advantage guidance |
+| ⏳ **NEXT** | `architecture/golden-club-pods.md` | Hyperlocal 3km micro-pods (8–12 elders); horizontal resocialization, anti-leakage retention | NHS Social Prescribing evaluation studies, Harvard Longevity Study |
+| ⏳ **NEXT** | `tracks/in-home-frail.md` | In-Home Frail Track: fall risk (Tinetti / TUG tests), mobility escorts, home safety audits | Tinetti et al. (1986), Podsiadlo & Richardson (1991) |
+| ⏳ **NEXT** | `tracks/active-social-club.md` | Active Social Track: cognitive stimulation, bridge, memoirs, multi-generational mentorship | Harvard Study of Adult Development (Waldinger & Schulz, 2023) |
+| ⏳ **NEXT** | `tracks/high-acuity-medical.md` | Medical Track: oncology/cardiac coordination, PGIMER / Fortis OPD navigation, red-flag firewall | Indian Telemedicine Guidelines (2020), AI emergency triage |
+| ⏳ **NEXT** | `tracks/global-nri-guardian.md` | Global NRI Guardian Track: diaspora distance anxiety, family wallet, time-zone delta management | RBI LRS remittance rules, Stripe cross-border subscriptions |
+| ⏳ **NEXT** | `tracks/acute-bereavement.md` | Spousal bereavement protocol (Days 1–90): Takotsubo cardiomyopathy risk, daily check-ins | Mostofsky et al. (2012) *Circulation*, Bereavement mortality HR |
+| ⏳ **NEXT** | `expansion/unit-economics.md` | Subscription tiers (Silver ₹3.5k, Gold ₹8.5k, Platinum ₹18k), 63.2% contribution margins | LTV/CAC ratios, RM salary costs, worker gig payouts |
+| ⏳ **NEXT** | `expansion/3-year-scaling-plan.md` | 3-Year expansion: Tricity $\to$ Ludhiana/Jalandhar $\to$ Dehradun/Jaipur; ₹90L $\to$ ₹20.5Cr ARR | Regional elderly census data, tier-2 city market density |
+| ⏳ **NEXT** | `market/tricity-landscape.md` | Tricity landscape: GoldenCares baseline, Emoha Sec 70, Samarth Chd, informal maids pricing | Primary market survey, MCA corporate registry filings |
+| ⏳ **NEXT** | `market/goodfellows-case-study.md` | Goodfellows teardown: fixed salary burn, 3% interview bottleneck, unit economics analysis | MCA filings, Goodfellows public financials & interviews |
+| ⏳ **NEXT** | `market/global-benchmarks.md` | Global benchmarks: Papa (US), Naver CareCall (KR), ElliQ (US), Buurtzorg (NL), Cera Care (UK) | ACM CHI 2023, NYSOFA report, Commonwealth Fund, NHS |
+
+---
+
 ## 🛠️ CLI & Build Commands
 
 - **Build verification:** `npm --prefix wiki run build`

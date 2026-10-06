@@ -15,6 +15,10 @@ export default defineConfig({
 			],
 			sidebar: [
 				{
+					label: '⚡ Executive Overview & Master Blueprint',
+					items: [{ autogenerate: { directory: 'overview' } }],
+				},
+				{
 					label: '📚 Clinical Research & Evidence',
 					items: [{ autogenerate: { directory: 'clinical' } }],
 				},
