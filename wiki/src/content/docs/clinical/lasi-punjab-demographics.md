@@ -4,6 +4,8 @@ description: Longitudinal Ageing Study in India (2017-18) Wave-1 demographics of
 ---
 
 # LASI Wave 1 & The "Silent Kothi" Phenomenon
+![An elderly woman in traditional attire, Varanasi, India — elder demography in LASI Wave-1](/gcfp/images/elderly_woman_in_traditional_sari_-_varanasi_india.jpg)
+*An elderly woman in traditional attire, Varanasi, India — elder demography in LASI Wave-1 — Image: Wikimedia Commons*
 
 ---
 

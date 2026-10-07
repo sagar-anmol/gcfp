@@ -4,6 +4,8 @@ description: Provider baseline, pricing benchmarks in INR, demographic addressab
 ---
 
 # Tricity Elder-Care Competitor Landscape
+![A residential elder-care home — part of the formal senior-living landscape](/gcfp/images/light_old_age_home_4.jpg)
+*A residential elder-care home — part of the formal senior-living landscape — Image: Wikimedia Commons*
 
 ---
 

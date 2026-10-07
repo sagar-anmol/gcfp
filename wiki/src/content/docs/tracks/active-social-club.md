@@ -4,6 +4,8 @@ description: Care Track for mobile elders craving peer cohorts, cognitive stimul
 ---
 
 # Track B: Active Social Club Track
+![An elderly woman walking towards a temple — resocialisation through the Active Social track](/gcfp/images/an_elderly_woman_walking_towards_kadalekalu_ganesha_temple.jpg)
+*An elderly woman walking towards a temple — resocialisation through the Active Social track — Image: Wikimedia Commons*
 
 ---
 

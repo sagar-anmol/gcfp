@@ -4,6 +4,8 @@ description: 90-day structured spousal-loss protocol with Sarthi AI nocturnal wa
 ---
 
 # Track E: Acute Bereavement Track
+![An elderly woman sitting alone — the acute bereavement window the protocol covers](/gcfp/images/elderly_woman_sitting.jpg)
+*An elderly woman sitting alone — the acute bereavement window the protocol covers — Image: Wikimedia Commons*
 
 ---
 

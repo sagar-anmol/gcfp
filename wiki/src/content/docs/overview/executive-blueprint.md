@@ -4,6 +4,8 @@ description: "From Baseline On-Demand Companionship to an Autonomous Hybrid Oper
 ---
 
 # Executive Master Blueprint: Autonomous Hybrid Eldercare OS
+![An elderly man in India — the human baseline behind the ElderTech operating model](/gcfp/images/india_-_an_old_man_-_0800.jpg)
+*An elderly man in India — the human baseline behind the ElderTech operating model — Image: Wikimedia Commons*
 
 ## 1. Baseline Situation: What We Are Doing Today
 

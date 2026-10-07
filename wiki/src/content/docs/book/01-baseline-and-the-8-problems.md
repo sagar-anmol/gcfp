@@ -4,6 +4,8 @@ description: "What happened during our initial hourly companion pilot and why si
 ---
 
 # Chapter 1: Our First Pilot & The 8 Core Breakdowns
+![An elderly resident of a Punjab village, District Patiala — the demographic core of the Tricity eldercare baseline.](/gcfp/images/an_old_man_in_village_aakadi_district_patiala.jpg)
+*An elderly resident of a Punjab village, District Patiala — the demographic core of the Tricity eldercare baseline. — Image: Wikimedia Commons*
 
 ## 1.1 The Baseline Pilot: GoldenCares
 
