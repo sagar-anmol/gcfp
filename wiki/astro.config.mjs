@@ -15,31 +15,31 @@ export default defineConfig({
 			],
 			sidebar: [
 				{
-					label: '📖 The Master Treatise (Book)',
+					label: 'The Master Treatise (Book)',
 					items: [{ autogenerate: { directory: 'book' } }],
 				},
 				{
-					label: '⚡ Executive Overview & Master Blueprint',
+					label: 'Executive Overview & Master Blueprint',
 					items: [{ autogenerate: { directory: 'overview' } }],
 				},
 				{
-					label: '📚 Clinical Research & Evidence',
+					label: 'Clinical Research & Evidence',
 					items: [{ autogenerate: { directory: 'clinical' } }],
 				},
 				{
-					label: '🏗️ Platform Architecture & Pillars',
+					label: 'Platform Architecture & Pillars',
 					items: [{ autogenerate: { directory: 'architecture' } }],
 				},
 				{
-					label: '🧭 5 Dynamic Care Tracks',
+					label: 'Dynamic Care Tracks',
 					items: [{ autogenerate: { directory: 'tracks' } }],
 				},
 				{
-					label: '🌐 Market & Competitive Intelligence',
+					label: 'Market & Competitive Intelligence',
 					items: [{ autogenerate: { directory: 'market' } }],
 				},
 				{
-					label: '🔬 Editorial Standards & Research Schema',
+					label: 'Editorial Standards & Research Schema',
 					items: [{ autogenerate: { directory: 'guidelines' } }],
 				},
 			],

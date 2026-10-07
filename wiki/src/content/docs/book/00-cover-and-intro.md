@@ -45,7 +45,7 @@ We pair two forces:
 
 ---
 
-## 📑 Table of Contents
+## Table of Contents
 
 The book runs in **7 chapters**:
 
@@ -61,4 +61,6 @@ The book runs in **7 chapters**:
 
 ---
 
-> 📖 **Next Step:** Start with **[Chapter 1: Our First Pilot & The 8 Core Breakdowns](/gcfp/book/01-baseline-and-the-8-problems/)** — it shows what happened on the ground and why simple matching platforms fail.
+:::tip[Next Step]
+Start with **[Chapter 1: Our First Pilot & The 8 Core Breakdowns](/gcfp/book/01-baseline-and-the-8-problems/)** — it shows what happened on the ground and why simple matching platforms fail.
+:::

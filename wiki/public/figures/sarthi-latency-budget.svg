@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="320" viewBox="0 0 720 320" role="img" aria-label="Sarthi AI latency budget stacked bar">
+  <style>
+    .s1 { fill: #94a3b8; }
+    .s2 { fill: #64748b; }
+    .s3 { fill: #475569; }
+    .s4 { fill: #cbd5e1; }
+    .s5 { fill: #e2e8f0; }
+    .lbl { font: 12px system-ui, sans-serif; fill: #6b7280; }
+    .val { font: 11px system-ui, sans-serif; fill: #4b5563; font-weight: 600; }
+    .title { font: 14px system-ui, sans-serif; fill: #4b5563; font-weight: 600; }
+    .cap { font: 11px system-ui, sans-serif; fill: #9ca3af; }
+    .axis { stroke: #9ca3af; stroke-width: 1; }
+    .leg { font: 11px system-ui, sans-serif; fill: #6b7280; }
+    .valw { fill: #f8fafc; font: 11px system-ui, sans-serif; font-weight: 600; }
+    @media (prefers-color-scheme: dark) {
+      .s1 { fill: #475569; }
+      .s2 { fill: #94a3b8; }
+      .s3 { fill: #cbd5e1; }
+      .s4 { fill: #334155; }
+      .s5 { fill: #64748b; }
+      .lbl { fill: #9ca3af; }
+      .val { fill: #d1d5db; }
+      .title { fill: #e5e7eb; }
+      .cap { fill: #6b7280; }
+      .axis { stroke: #4b5563; }
+      .leg { fill: #9ca3af; }
+      .valw { fill: #1f2937; }
+    }
+    .valw { fill: #f8fafc; font: 11px system-ui, sans-serif; font-weight: 600; }
+  </style>
+  <text x="360" y="26" text-anchor="middle" class="title">Sarthi AI Glass-to-Glass Latency Budget (p50, ms)</text>
+  <!-- total 480ms mapped to 560px: 1.1667 px/ms -->
+  <g>
+    <rect x="80" y="70" width="23" height="50" class="s1"/>
+    <text x="91" y="140" text-anchor="middle" class="val">20</text>
+    <rect x="103" y="70" width="152" height="50" class="s2"/>
+    <text x="179" y="140" text-anchor="middle" class="val">130</text>
+    <rect x="255" y="70" width="175" height="50" class="s3"/>
+    <text x="342" y="140" text-anchor="middle" class="valw">150</text>
+    <rect x="430" y="70" width="163" height="50" class="s4"/>
+    <text x="511" y="140" text-anchor="middle" class="val">140</text>
+    <rect x="593" y="70" width="47" height="50" class="s5"/>
+    <text x="616" y="140" text-anchor="middle" class="val">40</text>
+  </g>
+  <line x1="80" y1="120" x2="640" y2="120" class="axis"/>
+  <text x="360" y="60" text-anchor="middle" class="lbl">Total p50 = 480 ms (target &lt; 500 ms; p95 = 680 ms)</text>
+  <g>
+    <rect x="80" y="170" width="10" height="10" class="s1"/><text x="96" y="179" class="leg">1. VAD (Silero) — 20 ms</text>
+    <rect x="80" y="192" width="10" height="10" class="s2"/><text x="96" y="201" class="leg">2. ASR (Nova-2 / Whisper v3 Turbo) — 130 ms</text>
+    <rect x="80" y="214" width="10" height="10" class="s3"/><text x="96" y="223" class="leg">3. LLM (Llama-3.3-70B on Groq LPU) — 150 ms</text>
+    <rect x="80" y="236" width="10" height="10" class="s4"/><text x="96" y="245" class="leg">4. TTS (ElevenLabs Flash / Cartesia / Bhashini) — 140 ms</text>
+    <rect x="80" y="258" width="10" height="10" class="s5"/><text x="96" y="267" class="leg">5. Network (QUIC/WebRTC) — 40 ms</text>
+  </g>
+  <text x="360" y="305" text-anchor="middle" class="cap">Source: Sarthi AI latency budget, p50 per stage. Human-perceived stall threshold &gt; 700 ms.</text>
+</svg>

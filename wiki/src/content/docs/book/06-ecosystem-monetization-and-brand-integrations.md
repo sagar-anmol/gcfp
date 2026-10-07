@@ -31,10 +31,10 @@ Healthcare spending in geriatric populations is non-discretionary. By integratin
 
 ```mermaid
 flowchart TD
-    Elder["👵 Elder Orders via Voice / RM Check-in"]
-    Platform["🛡️ ElderTech OS Platform Engine"]
+ Elder["Elder Orders via Voice / RM Check-in"]
+ Platform["ElderTech OS Platform Engine"]
     
-    subgraph Clinical_Partners ["🏥 Tier-1 Integrated Healthcare Partners"]
+ subgraph Clinical_Partners ["Tier-1 Integrated Healthcare Partners"]
         Labs["Diagnostic Labs\n(Dr. Lal / SRL / Metropolis)\nTake-Rate: 15% – 25%"]
         Pharma["Chronic Medicine\n(Tata 1mg / Apollo)\nTake-Rate: 10% – 20%"]
         Hospitals["Quaternary Hospitals\n(Fortis / Max / Ivy)\nReferral: ₹2,000 – ₹6,000"]
@@ -167,4 +167,6 @@ By integrating these secondary and tertiary revenue streams, the Average Revenue
 
 ---
 
-> ➡️ **Next Chapter:** Examine the operational defense in **[Chapter 7: Architectural Stress-Testing — The 7 Loopholes & Patches](/gcfp/book/07-stress-testing-and-loopholes/)**.
+:::tip[Next Chapter]
+Examine the operational defense in **[Chapter 7: Architectural Stress-Testing — The 7 Loopholes & Patches](/gcfp/book/07-stress-testing-and-loopholes/)**.
+:::

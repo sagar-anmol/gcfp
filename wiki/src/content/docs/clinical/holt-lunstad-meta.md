@@ -46,6 +46,10 @@ The foundational evidence is established by the landmark meta-analysis conducted
 ### 2.2 Relative Mortality Hazard Ratios
 All three social deficit indicators demonstrated statistically significant increases in all-cause mortality hazard when controlling for baseline health status, socioeconomic status, and pre-existing medical conditions:
 
+![Mortality odds ratios: social deficits vs biological risk factors](/gcfp/figures/holtlunstad-odds-ratios.svg)
+
+*Figure: Social deficits carry mortality hazards comparable to or exceeding smoking, obesity, and hypertension.*
+
 | Social Deficit Parameter | Random-Effects Odds Ratio ($OR$) | 95% Confidence Interval ($95\%\ CI$) | $p$-value |
 | :--- | :--- | :--- | :--- |
 | **Living Alone** | **$1.32$** | $[1.14, 1.53]$ | $p < 0.001$ |

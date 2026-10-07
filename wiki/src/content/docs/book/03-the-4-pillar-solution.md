@@ -13,21 +13,21 @@ The **Autonomous Hybrid Operating System** unifies software and human touch into
 
 ```mermaid
 flowchart TD
-    Elder["👵 Solitary Senior in Kothi"]
+ Elder["Solitary Senior in Kothi"]
 
-    subgraph Tier_1 ["🧠 TIER 1: Zero-Latency Ambient Software"]
+ subgraph Tier_1 ["TIER 1: Zero-Latency Ambient Software"]
         P1["Pillar I: Sarthi AI Voice Confidant\n• Sub-500ms Punjabi/Hindi Voice Pipeline\n• 2:00 AM – 5:00 AM Nocturnal Circadian Shield\n• Passive Acoustic & Speech Biomarker Radar"]
     end
 
-    subgraph Tier_2 ["🛡️ TIER 2: Dedicated Human Trust Anchor"]
+ subgraph Tier_2 ["TIER 2: Dedicated Human Trust Anchor"]
         P2["Pillar II: Dignity Relationship Manager (RM)\n• Salaried Professional (Strict 1:30 Elder Load)\n• Order Approval Gatekeeper & Safety Firewall\n• Bi-Weekly In-Person Clinical Audits"]
     end
 
-    subgraph Tier_3 ["🚶 TIER 3: Dynamic Physical Escort Network"]
+ subgraph Tier_3 ["TIER 3: Dynamic Physical Escort Network"]
         P3["Pillar III: Dynamic Youth 'Mentee' Escorts\n• Vetted Students (Panjab Univ, PEC, Chitkara)\n• Mentee Framing: Reverses Infantilization Trap\n• Hospital Navigation (PGIMER/Fortis), Walks"]
     end
 
-    subgraph Tier_4 ["🏘️ TIER 4: Hyperlocal Peer Community"]
+ subgraph Tier_4 ["TIER 4: Hyperlocal Peer Community"]
         P4["Pillar IV: Golden Club Micro-Pods\n• 3km Hyperlocal Peer Circles (8–12 Elders)\n• Weekly Bridge, Book Clubs, Garden Tea\n• Horizontal Social Lock-In & Retention Moat"]
     end
 
@@ -35,7 +35,7 @@ flowchart TD
     P1 -->|Order Requests & Anomaly Alerts| P2
     P2 -->|Reviews, Approves & Dispatches| P3
     P2 -->|Integrates Elder into| P4
-    P2 -->|Bi-Weekly Telemetry & Video Digests| Diaspora["🌍 Global NRI Children (Canada/US/UK)"]
+ P2 -->|Bi-Weekly Telemetry & Video Digests| Diaspora["Global NRI Children (Canada/US/UK)"]
 ```
 
 ---
@@ -143,4 +143,6 @@ Chronic loneliness is cured by sustainable peer community, not isolated one-on-o
 
 ---
 
-> ➡️ **Next Chapter:** Examine the financial infrastructure in **[Chapter 4: The Operational & Financial Engine — Dynamic Workers Pool & Family Wallet](/gcfp/book/04-operational-fintech-engine/)**.
+:::tip[Next Chapter]
+Examine the financial infrastructure in **[Chapter 4: The Operational & Financial Engine — Dynamic Workers Pool & Family Wallet](/gcfp/book/04-operational-fintech-engine/)**.
+:::

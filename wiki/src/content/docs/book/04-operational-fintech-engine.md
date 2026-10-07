@@ -38,12 +38,12 @@ Allowing older adults—especially those with early cognitive impairment or sens
 ```mermaid
 sequenceDiagram
     autonumber
-    actor Senior as 👵 Senior at Bedside
-    participant AI as 🧠 Sarthi AI Voice
-    participant RM as 🛡️ RM Console (Dignity Officer)
-    participant Wallet as 💳 Family Digital Wallet
-    participant Worker as 🚶 Dynamic Worker Pool
-    actor NRI as 🌍 NRI Sponsor (Toronto)
+ actor Senior as Senior at Bedside
+ participant AI as Sarthi AI Voice
+ participant RM as RM Console (Dignity Officer)
+ participant Wallet as Family Digital Wallet
+ participant Worker as Dynamic Worker Pool
+ actor NRI as NRI Sponsor (Toronto)
 
     Senior->>AI: "Mainu PGIMER jana hai te knee spray chahida"
     AI->>AI: Parses intent: Intent=[OPD_ESCORT, MED_REFILL]
@@ -105,4 +105,6 @@ Rather than offering rigid one-size-fits-all packages, the platform monetizes th
 
 ---
 
-> ➡️ **Next Chapter:** Examine the technical reality and telecom architecture in **[Chapter 5: Current Ground Reality — Technical Hurdles & Telephony Stack](/gcfp/book/05-current-hurdles-and-telephony-stack/)**.
+:::tip[Next Chapter]
+Examine the technical reality and telecom architecture in **[Chapter 5: Current Ground Reality — Technical Hurdles & Telephony Stack](/gcfp/book/05-current-hurdles-and-telephony-stack/)**.
+:::

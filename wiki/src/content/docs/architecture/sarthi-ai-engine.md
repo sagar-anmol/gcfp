@@ -37,6 +37,10 @@ description: Sub-500ms conversational latency budget, Indic dialect acoustic tel
 ### 2.1 Latency Budget Breakdown (Glass-to-Glass)
 The pipeline is designed to eliminate human-perceived conversational stalls ($> 700\text{ ms}$), maintaining a total latency envelope below $500\text{ ms}$:
 
+![Sarthi AI glass-to-glass latency budget, p50](/gcfp/figures/sarthi-latency-budget.svg)
+
+*Figure: p50 latency per pipeline stage stacks to 480 ms end-to-end (p95: 680 ms).*
+
 | Pipeline Stage | Underlying Technology | Budgeted Latency ($p50$) | Budgeted Latency ($p95$) |
 | :--- | :--- | :--- | :--- |
 | **1. Voice Activity Detection (VAD)** | Silero VAD (ONNX runtime, local edge/gateway) | 20 ms | 35 ms |

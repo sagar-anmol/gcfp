@@ -38,6 +38,10 @@ The **Nocturnal Melatonin Void** describes the circadian architecture of advance
 
 ### 2.1 Endocrine & Sleep Metrics
 
+![Endogenous nocturnal melatonin: young adult vs older adults](/gcfp/figures/melatonin-decline.svg)
+
+*Figure: Nocturnal melatonin secretion in older adults falls to roughly 20–40% of the young-adult peak — a 60–80% age-related decline.*
+
 | Parameter | Measured Value | Evidence / Cohort |
 | :--- | :--- | :--- |
 | Endogenous nocturnal melatonin decline | 60–80% reduction with advancing age | Karasek (2004) review |

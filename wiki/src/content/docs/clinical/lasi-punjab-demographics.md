@@ -48,6 +48,10 @@ description: Longitudinal Ageing Study in India (2017-18) Wave-1 demographics of
 
 ### 2.2 State-Level Elderly Concentration (aged $\ge 60$, % of household population)
 
+![Elderly share of household population by state (LASI Wave 1)](/gcfp/figures/lasi-elderly-by-state.svg)
+
+*Figure: State-wise share of residents aged ≥ 60; Kerala highest at 20%, Arunachal Pradesh lowest at 6%, Punjab/Chandigarh belt ≈ 13–14%.*
+
 | State / UT | % Elderly | Context |
 | :--- | :--- | :--- |
 | Kerala | 20% | Highest in India |

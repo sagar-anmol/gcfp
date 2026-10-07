@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="420" viewBox="0 0 720 420" role="img" aria-label="Goodfellows unit economics per companion">
+  <style>
+    .axis { stroke: #9ca3af; stroke-width: 1; }
+    .rev { fill: #94a3b8; }
+    .sal { fill: #64748b; }
+    .ovh { fill: #cbd5e1; }
+    .lbl { font: 12px system-ui, sans-serif; fill: #6b7280; }
+    .val { font: 11px system-ui, sans-serif; fill: #4b5563; font-weight: 600; }
+    .title { font: 14px system-ui, sans-serif; fill: #4b5563; font-weight: 600; }
+    .cap { font: 11px system-ui, sans-serif; fill: #9ca3af; }
+    .grid { stroke: #e5e7eb; stroke-width: 1; }
+    .leg { font: 11px system-ui, sans-serif; fill: #6b7280; }
+    @media (prefers-color-scheme: dark) {
+      .rev { fill: #64748b; }
+      .sal { fill: #cbd5e1; }
+      .ovh { fill: #475569; }
+      .lbl { fill: #9ca3af; }
+      .val { fill: #d1d5db; }
+      .title { fill: #e5e7eb; }
+      .cap { fill: #6b7280; }
+      .axis { stroke: #4b5563; }
+      .grid { stroke: #374151; }
+      .leg { fill: #9ca3af; }
+    }
+  </style>
+  <text x="360" y="26" text-anchor="middle" class="title">Goodfellows Unit Economics per Companion (₹/month)</text>
+  <line x1="90" y1="50" x2="90" y2="350" class="axis"/>
+  <line x1="90" y1="350" x2="690" y2="350" class="axis"/>
+  <line x1="90" y1="200" x2="690" y2="200" class="grid"/>
+  <line x1="90" y1="50" x2="690" y2="50" class="grid"/>
+  <text x="82" y="354" text-anchor="end" class="lbl">0</text>
+  <text x="82" y="204" text-anchor="end" class="lbl">20k</text>
+  <text x="82" y="54" text-anchor="end" class="lbl">40k</text>
+  <text x="40" y="200" transform="rotate(-90 40 200)" text-anchor="middle" class="cap">₹ per month</text>
+  <!-- scale: 40000 -> 300px (50..350) => 0.0075 px/rupee; 5k = 37.5px -->
+  <!-- Low caseload group -->
+  <rect x="140" y="162.5" width="50" height="187.5" class="rev"/>
+  <text x="165" y="154" text-anchor="middle" class="val">25,000</text>
+  <rect x="200" y="87.5" width="50" height="262.5" class="sal"/>
+  <text x="225" y="79" text-anchor="middle" class="val">25–35k</text>
+  <rect x="260" y="282.5" width="50" height="67.5" class="ovh"/>
+  <text x="285" y="274" text-anchor="middle" class="val">6–9k</text>
+  <text x="225" y="372" text-anchor="middle" class="lbl">Low caseload (5 seniors)</text>
+  <!-- High caseload group -->
+  <rect x="420" y="125" width="50" height="225" class="rev"/>
+  <text x="445" y="117" text-anchor="middle" class="val">30,000</text>
+  <rect x="480" y="87.5" width="50" height="262.5" class="sal"/>
+  <text x="505" y="79" text-anchor="middle" class="val">25–35k</text>
+  <rect x="540" y="282.5" width="50" height="67.5" class="ovh"/>
+  <text x="565" y="274" text-anchor="middle" class="val">6–9k</text>
+  <text x="505" y="372" text-anchor="middle" class="lbl">High caseload (6 seniors)</text>
+  <rect x="180" y="392" width="10" height="10" class="rev"/><text x="196" y="401" class="leg">Gross revenue</text>
+  <rect x="290" y="392" width="10" height="10" class="sal"/><text x="306" y="401" class="leg">Companion salary</text>
+  <rect x="430" y="392" width="10" height="10" class="ovh"/><text x="446" y="401" class="leg">Overhead (20–30%)</text>
+  <text x="360" y="414" text-anchor="middle" class="cap">Post-overhead result: breakeven-or-deficit per companion (≈ −₹6,000 to +₹4,000).</text>
+</svg>

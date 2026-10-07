@@ -15,10 +15,10 @@ To build an institutional-grade enterprise, we must confront the **hard operatio
 ├─────────────────────┬─────────────────────────────────┬────────────────────────────────┤
 │ Technology Layer    │ Current Ground Status           │ Production Requirement        │
 ├─────────────────────┼─────────────────────────────────┼────────────────────────────────┤
-│ 1. Voice AI Brain   │ ❌ No fine-tuned in-house model │ Proprietary Punjabi/Hindi LLM  │
-│ 2. Telephony Lines  │ ❌ No SIP trunks / PRI lines    │ Carrier SIP Trunk (Exotel/Jio) │
-│ 3. Telecom Entity   │ ❌ No TRAI DLT registration     │ Enterprise Principal Entity    │
-│ 4. Hardware Unit    │ ❌ Off-the-shelf smartphones    │ Bedside Dedicated Voice Box    │
+│ 1. Voice AI Brain   │    No fine-tuned in-house model │ Proprietary Punjabi/Hindi LLM  │
+│ 2. Telephony Lines  │    No SIP trunks / PRI lines    │ Carrier SIP Trunk (Exotel/Jio) │
+│ 3. Telecom Entity   │    No TRAI DLT registration     │ Enterprise Principal Entity    │
+│ 4. Hardware Unit    │    Off-the-shelf smartphones    │ Bedside Dedicated Voice Box    │
 └─────────────────────┴─────────────────────────────────┴────────────────────────────────┘
 ```
 
@@ -47,12 +47,12 @@ To bridge the gap between cloud AI and an elderly citizen's regular telephone, w
 
 ```mermaid
 flowchart LR
-    Senior["👵 Solitary Senior\n(Landline / 2G Phone)"]
-    Telco["📡 Telecom Carrier\n(Jio / Airtel / Tata)"]
-    Gateway["☁️ Cloud Telephony Switch\n(Exotel / Twilio Gateway)"]
-    Streamer["⚡ WebRTC / Audio WebSocket\n(Bi-Directional RTP Stream)"]
+ Senior["Solitary Senior\n(Landline / 2G Phone)"]
+ Telco["Telecom Carrier\n(Jio / Airtel / Tata)"]
+ Gateway["Cloud Telephony Switch\n(Exotel / Twilio Gateway)"]
+ Streamer["WebRTC / Audio WebSocket\n(Bi-Directional RTP Stream)"]
     
-    subgraph Sarthi_Core ["🧠 Real-Time AI Core (<500ms)"]
+ subgraph Sarthi_Core ["Real-Time AI Core (<500ms)"]
         VAD["Silero VAD\n(20ms Speech Detection)"]
         ASR["Streaming Whisper-v3\n(150ms Indic Transcription)"]
         LLM["LLaMA-3.3 / Gemini Flash\n(160ms Intent & Memory)"]
@@ -107,4 +107,6 @@ Deploying an autonomous telephonic eldercare service in India requires navigatin
 
 ---
 
-> ➡️ **Next Chapter:** Explore commercial expansion and brand integrations in **[Chapter 6: Ecosystem Monetization & Brand Integrations Beyond Subscriptions](/gcfp/book/06-ecosystem-monetization-and-brand-integrations/)**.
+:::tip[Next Chapter]
+Explore commercial expansion and brand integrations in **[Chapter 6: Ecosystem Monetization & Brand Integrations Beyond Subscriptions](/gcfp/book/06-ecosystem-monetization-and-brand-integrations/)**.
+:::

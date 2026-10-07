@@ -26,18 +26,18 @@ To close that gap, city governments teamed up with **Naver** (South Korea's bigg
 
 ```mermaid
 flowchart TD
-    subgraph Phone_Lines ["📞 Regular Phone Networks"]
+ subgraph Phone_Lines ["Regular Phone Networks"]
         Phone["Landline or Simple Mobile Phone"]
         Gateway["Automated Voice Gateway"]
     end
 
-    subgraph AI_Engine ["🧠 Conversational AI Engine"]
+ subgraph AI_Engine ["Conversational AI Engine"]
         Brain["Natural Voice Model"]
         Memory["Memory of Past Conversations"]
         Alerts["Weather and Health Safety Prompts"]
     end
 
-    subgraph Community_Safety ["🛡️ Local Response Team"]
+ subgraph Community_Safety ["Local Response Team"]
         Dashboard["City Welfare Worker Screen"]
         Visit["In-Person Visit or Emergency Help"]
     end
@@ -93,7 +93,7 @@ Care models across the United States, Europe, and Asia confirm that every piece 
 
 ---
 
-### 2.2.1 🇺🇸 United States: Papa ("Papa Pals") — Student Companions
+### 2.2.1 United States: Papa ("Papa Pals") — Student Companions
 - **How It Works:** Papa pairs college students and young adults with seniors for companionship, light household help, and rides to doctor appointments.
 - **Who Pays:** Major health insurance companies (Humana, Aetna, Cigna) fund it through their Medicare Advantage plans. Insurers pay because non-medical social support keeps seniors out of the hospital.
 - **Proven Impact:** Active in all 50 US states. Clinical studies show a **33% drop in emergency hospital visits**, plus big improvements in mood and outlook.
@@ -101,33 +101,33 @@ Care models across the United States, Europe, and Asia confirm that every piece 
 
 ---
 
-### 2.2.2 🇺🇸 United States: New York State & ElliQ — Voice Companions
+### 2.2.2 United States: New York State & ElliQ — Voice Companions
 - **How It Works:** The New York State government partnered with Intuition Robotics to put proactive voice companions into the homes of older adults living alone.
 - **Proven Impact:** Over 800 units deployed. **95% of participating seniors reported feeling noticeably less lonely**.
 - Seniors interact with the device an average of **over 30 times a day**, and the device starts most of those conversations on its own.
 
 ---
 
-### 2.2.3 🇳🇱 Netherlands: Buurtzorg — Neighborhood Teams
+### 2.2.3 Netherlands: Buurtzorg — Neighborhood Teams
 - **How It Works:** Founded by nurse Jos de Blok, Buurtzorg scrapped bloated corporate headquarters in favor of small, self-run teams of 10 to 12 nurses covering 40 to 50 seniors within a tight **3-kilometer neighborhood**.
 - **Proven Impact:** Serves over 100,000 seniors in the Netherlands with a **30% reduction in emergency hospital visits**. Management overhead sits at just 8%, versus 25% at traditional healthcare agencies.
 
 ---
 
-### 2.2.4 🇬🇧 United Kingdom: Cera Care — Early Health Warning System
+### 2.2.4 United Kingdom: Cera Care — Early Health Warning System
 - **How It Works:** Cera Care delivers over 50,000 in-person care visits across the UK every day. Helpers log simple daily observations in their mobile app: walking speed, water intake, mood, and sleep.
 - **Proven Impact:** Their system predicts health declines and potential hospital visits **up to 82% accurately, 30 days before they happen**, cutting hospital readmissions by 52%.
 
 ---
 
-### 2.2.5 🇯🇵 Japan: The Smart Electric Kettle
+### 2.2.5 Japan: The Smart Electric Kettle
 - **How It Works:** Japanese kitchen brand Zojirushi built a simple wireless chip into electric hot water kettles.
 - **Why It Works:** Japanese seniors brew green tea several times a day. Each time they pour hot water, a quiet signal goes to their adult child's phone.
 - If no tea has been brewed by 10:00 AM, the child or local care coordinator gets a gentle notification. The senior needs zero tech skills.
 
 ---
 
-### 2.2.6 🇬🇧 United Kingdom: Social Prescriptions by Doctors
+### 2.2.6 United Kingdom: Social Prescriptions by Doctors
 - **How It Works:** In the UK, family doctors don't just hand out medicine when lonely seniors come in. They write official referrals to community coordinators, who connect seniors with local walking clubs, gardening groups, and card games.
 - **Proven Impact:** This led to a **28% reduction in clinic visits** and a **24% drop in emergency room admissions**.
 
@@ -139,11 +139,13 @@ Almost every elder care success story in the world lands on the same truth: **ke
 
 | Proven Global Model | What It Does Best | What It Misses | How We Combine It |
 | :--- | :--- | :--- | :--- |
-| **🇰🇷 Naver CareCall** | Friendly, zero-effort phone check-ins at huge scale | Voice only; can't visit in person or go along to doctors | We pair voice check-ins with **in-person Relationship Managers** and **student companions**. |
-| **🇺🇸 Papa Pals** | High-energy student visits for walks and activities | Goes quiet between 2:00 AM and 5:00 AM, when seniors wake up alone | We combine daytime student visits with **24/7 night voice support**. |
-| **🇳🇱 Buurtzorg** | High-trust, tight 3-kilometer neighborhood teams | Expensive, because it depends entirely on full-time nursing salaries | We adapt the 3-kilometer pod model using **Relationship Managers** and **local senior social clubs**. |
-| **🇬🇧 Cera Care** | Early warnings that prevent emergency hospital visits | Aimed mostly at seniors who are already sick or bedridden | We track simple daily patterns for **independent seniors**, before serious health problems start. |
+| **Naver CareCall** | Friendly, zero-effort phone check-ins at huge scale | Voice only; can't visit in person or go along to doctors | We pair voice check-ins with **in-person Relationship Managers** and **student companions**. |
+| **Papa Pals** | High-energy student visits for walks and activities | Goes quiet between 2:00 AM and 5:00 AM, when seniors wake up alone | We combine daytime student visits with **24/7 night voice support**. |
+| **Buurtzorg** | High-trust, tight 3-kilometer neighborhood teams | Expensive, because it depends entirely on full-time nursing salaries | We adapt the 3-kilometer pod model using **Relationship Managers** and **local senior social clubs**. |
+| **Cera Care** | Early warnings that prevent emergency hospital visits | Aimed mostly at seniors who are already sick or bedridden | We track simple daily patterns for **independent seniors**, before serious health problems start. |
 
 ---
 
-> ➡️ **Next Chapter:** See how our 4 core pillars work day-to-day in **[Chapter 3: The Complete Solution — The 4 Core Pillars](/gcfp/book/03-the-4-pillar-solution/)**.
+:::tip[Next Chapter]
+See how our 4 core pillars work day-to-day in **[Chapter 3: The Complete Solution — The 4 Core Pillars](/gcfp/book/03-the-4-pillar-solution/)**.
+:::

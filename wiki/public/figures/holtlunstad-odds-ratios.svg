@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="400" viewBox="0 0 720 400" role="img" aria-label="Relative mortality hazard ratios">
+  <style>
+    .axis { stroke: #9ca3af; stroke-width: 1; }
+    .bar { fill: #64748b; }
+    .bar.iso { fill: #334155; }
+    .ref { stroke: #ef4444; stroke-dasharray: 4 4; stroke-width: 1.5; }
+    .lbl { font: 12px system-ui, sans-serif; fill: #6b7280; }
+    .val { font: 12px system-ui, sans-serif; fill: #4b5563; font-weight: 600; }
+    .title { font: 14px system-ui, sans-serif; fill: #4b5563; font-weight: 600; }
+    .cap { font: 11px system-ui, sans-serif; fill: #9ca3af; }
+    @media (prefers-color-scheme: dark) {
+      .bar { fill: #94a3b8; }
+      .bar.iso { fill: #e2e8f0; }
+      .lbl { fill: #9ca3af; }
+      .val { fill: #d1d5db; }
+      .title { fill: #e5e7eb; }
+      .cap { fill: #6b7280; }
+      .axis { stroke: #4b5563; }
+    }
+  </style>
+  <text x="360" y="26" text-anchor="middle" class="title">All-Cause Mortality Odds Ratios — Social Deficits vs. Biological Risks</text>
+  <line x1="200" y1="50" x2="200" y2="350" class="axis"/>
+  <line x1="200" y1="350" x2="680" y2="350" class="axis"/>
+  <!-- scale: OR 1.0 -> x=200, OR 1.6 -> x=680 : 480px/0.6 = 800px per 1.0 -->
+  <g>
+    <rect x="200" y="60" width="400" height="24" class="bar iso"/>
+    <text x="192" y="76" text-anchor="end" class="lbl">Severe social isolation</text>
+    <text x="608" y="76" class="val">OR 1.50</text>
+
+    <rect x="200" y="95" width="256" height="24" class="bar"/>
+    <text x="192" y="111" text-anchor="end" class="lbl">Living alone</text>
+    <text x="464" y="111" class="val">OR 1.32</text>
+
+    <rect x="200" y="130" width="232" height="24" class="bar"/>
+    <text x="192" y="146" text-anchor="end" class="lbl">Objective social isolation</text>
+    <text x="440" y="146" class="val">OR 1.29</text>
+
+    <rect x="200" y="165" width="240" height="24" class="bar"/>
+    <text x="192" y="181" text-anchor="end" class="lbl">Excessive alcohol (&gt;6/day)</text>
+    <text x="448" y="181" class="val">OR 1.30</text>
+
+    <rect x="200" y="200" width="208" height="24" class="bar"/>
+    <text x="192" y="216" text-anchor="end" class="lbl">Subjective loneliness</text>
+    <text x="416" y="216" class="val">OR 1.26</text>
+
+    <rect x="200" y="235" width="160" height="24" class="bar"/>
+    <text x="192" y="251" text-anchor="end" class="lbl">Physical inactivity</text>
+    <text x="368" y="251" class="val">OR 1.20</text>
+
+    <rect x="200" y="270" width="144" height="24" class="bar"/>
+    <text x="192" y="286" text-anchor="end" class="lbl">Clinical obesity (BMI ≥ 30)</text>
+    <text x="352" y="286" class="val">OR 1.18</text>
+
+    <rect x="200" y="305" width="120" height="24" class="bar"/>
+    <text x="192" y="321" text-anchor="end" class="lbl">Hypertension</text>
+    <text x="328" y="321" class="val">OR 1.15</text>
+  </g>
+  <text x="440" y="376" text-anchor="middle" class="cap">Source: Holt-Lunstad et al. (2015, Perspectives on Psychological Science; 2010, PLOS Medicine). OR scale starts at null (1.00).</text>
+</svg>

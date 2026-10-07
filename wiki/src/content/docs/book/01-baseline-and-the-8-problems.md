@@ -116,4 +116,6 @@ Once we studied the pilot's operations alongside clinical sleep and behavioral d
 
 ---
 
-> ➡️ **Next Chapter:** See how global public health programs solved these problems in **[Chapter 2: What Works Globally: South Korea's CareCall & World Models](/gcfp/book/02-global-evidence-korea-deepdive/)**.
+:::tip[Next Chapter]
+See how global public health programs solved these problems in **[Chapter 2: What Works Globally: South Korea's CareCall & World Models](/gcfp/book/02-global-evidence-korea-deepdive/)**.
+:::

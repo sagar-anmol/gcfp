@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="400" viewBox="0 0 720 400" role="img" aria-label="Nocturnal melatonin decline with age">
+  <style>
+    .axis { stroke: #9ca3af; stroke-width: 1; }
+    .bar { fill: #64748b; }
+    .bar.night { fill: #334155; }
+    .lbl { font: 13px system-ui, sans-serif; fill: #6b7280; }
+    .val { font: 13px system-ui, sans-serif; fill: #4b5563; font-weight: 600; }
+    .title { font: 14px system-ui, sans-serif; fill: #4b5563; font-weight: 600; }
+    .cap { font: 11px system-ui, sans-serif; fill: #9ca3af; }
+    .grid { stroke: #e5e7eb; stroke-width: 1; }
+    @media (prefers-color-scheme: dark) {
+      .bar { fill: #94a3b8; }
+      .bar.night { fill: #e2e8f0; }
+      .lbl { fill: #9ca3af; }
+      .val { fill: #d1d5db; }
+      .title { fill: #e5e7eb; }
+      .cap { fill: #6b7280; }
+      .axis { stroke: #4b5563; }
+      .grid { stroke: #374151; }
+    }
+  </style>
+  <text x="360" y="26" text-anchor="middle" class="title">Endogenous Nocturnal Melatonin: Young Adult vs. Older Adults</text>
+  <line x1="80" y1="60" x2="80" y2="330" class="axis"/>
+  <line x1="80" y1="330" x2="680" y2="330" class="axis"/>
+  <line x1="80" y1="195" x2="680" y2="195" class="grid"/>
+  <line x1="80" y1="60" x2="680" y2="60" class="grid"/>
+  <text x="72" y="334" text-anchor="end" class="lbl">0%</text>
+  <text x="72" y="199" text-anchor="end" class="lbl">50%</text>
+  <text x="72" y="64" text-anchor="end" class="lbl">100%</text>
+  <text x="30" y="195" transform="rotate(-90 30 195)" text-anchor="middle" class="cap">Relative nocturnal melatonin level</text>
+  <!-- scale: 100% = 270px (60..330) -->
+  <rect x="150" y="60" width="90" height="270" class="bar"/>
+  <text x="195" y="352" text-anchor="middle" class="lbl">Young adult</text>
+  <text x="195" y="52" text-anchor="middle" class="val">100% (reference)</text>
+
+  <rect x="330" y="222" width="90" height="108" class="bar night"/>
+  <text x="375" y="352" text-anchor="middle" class="lbl">Older adults</text>
+  <text x="375" y="214" text-anchor="middle" class="val">20%</text>
+
+  <rect x="510" y="168" width="90" height="162" class="bar night"/>
+  <text x="555" y="352" text-anchor="middle" class="lbl">Older adults (mild)</text>
+  <text x="555" y="160" text-anchor="middle" class="val">40%</text>
+  <text x="455" y="380" text-anchor="middle" class="cap">Source: Karasek (2004) — endogenous nocturnal melatonin declines 60–80% with advancing age.</text>
+</svg>

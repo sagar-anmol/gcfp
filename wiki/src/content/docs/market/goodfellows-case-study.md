@@ -40,6 +40,11 @@ description: Fixed payroll burn, 3% psychometric selection funnel, and breakeven
 | **Companion Caseload** | 5–6 seniors per companion |
 
 ### 2.2 Unit-Economics Stress Test (per companion, steady state)
+
+![Goodfellows unit economics per companion](/gcfp/figures/goodfellows-unit-economics.svg)
+
+*Figure: Monthly gross revenue vs. fixed companion salary and overhead at 5- and 6-senior caseloads; post-overhead result is breakeven-or-deficit.*
+
 | Line Item | Low Caseload (5 seniors) | High Caseload (6 seniors) |
 | :--- | :--- | :--- |
 | Monthly gross revenue (₹5,000 × n) | ₹25,000 | ₹30,000 |

@@ -100,4 +100,6 @@ $$\textbf{Autonomous Scale} \quad + \quad \textbf{Institutional Trust} \quad + \
 
 ---
 
-> 🏁 **End of Treatise Volume I.** Proceed back to the **[Master Index & Chapter Directory](/gcfp/book/00-cover-and-intro/)** or explore the **[Clinical Evidence Archive](/gcfp/clinical/holt-lunstad-meta/)**.
+:::note[End of Treatise Volume I]
+Proceed back to the **[Master Index & Chapter Directory](/gcfp/book/00-cover-and-intro/)** or explore the **[Clinical Evidence Archive](/gcfp/clinical/holt-lunstad-meta/)**.
+:::

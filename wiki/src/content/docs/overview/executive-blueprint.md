@@ -43,24 +43,24 @@ Instead of a pure human service or a detached AI app, the platform operates as a
 
 ```mermaid
 flowchart TD
-    Elder["👵 Solitary Senior in Tricity Kothi"]
+ Elder["Solitary Senior in Tricity Kothi"]
 
-    subgraph Pillar_1 ["🧠 Pillar 1: Sarthi AI Voice Engine (24/7 Shield)"]
+ subgraph Pillar_1 ["Pillar 1: Sarthi AI Voice Engine (24/7 Shield)"]
         Voice["Sub-500ms Hindi/Punjabi Voice Agent"]
         Bio["Nocturnal Check-in (2 AM–5 AM) & Vocal Biomarkers"]
     end
 
-    subgraph Pillar_2 ["🛡️ Pillar 2: Relationship Manager (Human Anchor)"]
+ subgraph Pillar_2 ["Pillar 2: Relationship Manager (Human Anchor)"]
         RM["Dignity Officer (1:30 Dedicated Elder Ratio)"]
         Gate["Order Approval Firewall & Bi-Weekly In-Person Audits"]
     end
 
-    subgraph Pillar_3 ["🚶 Pillar 3: Dynamic Youth Escorts (Mentee Model)"]
+ subgraph Pillar_3 ["Pillar 3: Dynamic Youth Escorts (Mentee Model)"]
         Pals["Vetted University Escorts (PU, PEC, Chitkara)"]
         Escort["Hospital Navigation (PGIMER/Fortis) & Walks"]
     end
 
-    subgraph Pillar_4 ["🏘️ Pillar 4: Golden Club Hyperlocal Pods"]
+ subgraph Pillar_4 ["Pillar 4: Golden Club Hyperlocal Pods"]
         Pods["3km Neighborhood Circles (8–12 Seniors)"]
         Social["Bridge, Intellectual Roundtables, Resocialization"]
     end
@@ -69,7 +69,7 @@ flowchart TD
     Voice -->|Escalation / Action Item| RM
     RM -->|Authorizes & Dispatches| Pals
     RM -->|Integrates into| Pods
-    RM -->|Bi-Weekly Telemetry & Video Digest| NRI["🌍 NRI Adult Children (Canada/US/UK)"]
+ RM -->|Bi-Weekly Telemetry & Video Digest| NRI["NRI Adult Children (Canada/US/UK)"]
 ```
 
 ### 3.1 Pillar Definitions

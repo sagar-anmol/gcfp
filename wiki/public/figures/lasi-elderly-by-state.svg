@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="420" viewBox="0 0 720 420" role="img" aria-label="Elderly share of household population by state, LASI Wave 1">
+  <style>
+    .axis { stroke: #9ca3af; stroke-width: 1; }
+    .bar { fill: #64748b; }
+    .bar.hi { fill: #475569; }
+    .lbl { font: 12px system-ui, sans-serif; fill: #6b7280; }
+    .val { font: 12px system-ui, sans-serif; fill: #4b5563; font-weight: 600; }
+    .title { font: 14px system-ui, sans-serif; fill: #4b5563; font-weight: 600; }
+    .cap { font: 11px system-ui, sans-serif; fill: #9ca3af; }
+    @media (prefers-color-scheme: dark) {
+      .bar { fill: #94a3b8; }
+      .bar.hi { fill: #cbd5e1; }
+      .lbl { fill: #9ca3af; }
+      .val { fill: #d1d5db; }
+      .title { fill: #e5e7eb; }
+      .cap { fill: #6b7280; }
+      .axis { stroke: #4b5563; }
+    }
+  </style>
+  <text x="360" y="26" text-anchor="middle" class="title">Elderly (aged ≥ 60) as % of Household Population — LASI Wave 1</text>
+  <line x1="180" y1="50" x2="180" y2="360" class="axis"/>
+  <line x1="180" y1="360" x2="680" y2="360" class="axis"/>
+  <!-- scale: 0-22% across x 180..680 -> 22.7 px per % -->
+  <g>
+    <rect x="180" y="62" width="455" height="26" class="bar hi"/>
+    <text x="172" y="79" text-anchor="end" class="lbl">Kerala</text>
+    <text x="642" y="79" class="val">20%</text>
+
+    <rect x="180" y="97" width="386" height="26" class="bar"/>
+    <text x="172" y="114" text-anchor="end" class="lbl">Himachal Pradesh</text>
+    <text x="573" y="114" class="val">17%</text>
+
+    <rect x="180" y="132" width="364" height="26" class="bar"/>
+    <text x="172" y="149" text-anchor="end" class="lbl">Tamil Nadu</text>
+    <text x="551" y="149" class="val">16%</text>
+
+    <rect x="180" y="167" width="364" height="26" class="bar"/>
+    <text x="172" y="184" text-anchor="end" class="lbl">Puducherry</text>
+    <text x="551" y="184" class="val">16%</text>
+
+    <rect x="180" y="202" width="341" height="26" class="bar"/>
+    <text x="172" y="219" text-anchor="end" class="lbl">Goa</text>
+    <text x="528" y="219" class="val">15%</text>
+
+    <rect x="180" y="237" width="307" height="26" class="bar hi"/>
+    <text x="172" y="254" text-anchor="end" class="lbl">Punjab / Chandigarh</text>
+    <text x="494" y="254" class="val">~13–14%</text>
+
+    <rect x="180" y="272" width="296" height="26" class="bar"/>
+    <text x="172" y="289" text-anchor="end" class="lbl">National average</text>
+    <text x="483" y="289" class="val">~13%</text>
+
+    <rect x="180" y="307" width="136" height="26" class="bar"/>
+    <text x="172" y="324" text-anchor="end" class="lbl">Arunachal Pradesh</text>
+    <text x="323" y="324" class="val">6%</text>
+  </g>
+  <text x="430" y="388" text-anchor="middle" class="cap">X-axis: share of household population aged ≥ 60 (%). Source: LASI Wave 1, 2017–18.</text>
+  <text x="430" y="404" text-anchor="middle" class="cap">Punjab/Chandigarh belt ≈ 13–14%; Arunachal Pradesh lowest at 6%.</text>
+</svg>
